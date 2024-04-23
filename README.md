@@ -1,4 +1,4 @@
-** Salam! HI hope you are doing well.**
+**Salam! HI hope you are doing well.**
 
 ###########################################
 > I have uploaded the josn file that contains almost all the small cities, town and vilages in the pakistan,
