@@ -1,0 +1,3048 @@
+{
+    "0de920f1-b417-4b0c-8ec1-f2d5aabdf5f0": {
+        "name": "Gilgit baltistan",
+        "uid": "0de920f1-b417-4b0c-8ec1-f2d5aabdf5f0",
+        "districts": {
+            "07203dab-6185-4fd1-a585-f4c8181886ec": {
+                "name": "Gilgit",
+                "uid": "07203dab-6185-4fd1-a585-f4c8181886ec",
+                "cities": [
+                    {
+                        "uid": "f9898dff-191c-4f8d-b02b-121b69f5eda2",
+                        "name": "Naltar valley"
+                    },
+                    {
+                        "uid": "9de6c49e-ea50-4c53-b825-257baa958337",
+                        "name": "Hunza valley"
+                    },
+                    {
+                        "uid": "34e96deb-1c29-4f90-a09b-bd79a84cbfb4",
+                        "name": "Nagar valley"
+                    },
+                    {
+                        "uid": "9957a272-51e6-4e35-a33b-ab94e9619937",
+                        "name": "Ghizer"
+                    },
+                    {
+                        "uid": "3a4c9a69-5f96-4b4c-b069-12b14f34daf7",
+                        "name": "Gilgit city"
+                    }
+                ]
+            },
+            "899d2d37-620b-451a-8b7d-49b9086c891b": {
+                "name": "Hunza",
+                "uid": "899d2d37-620b-451a-8b7d-49b9086c891b",
+                "cities": [
+                    {
+                        "uid": "2453da1d-f30b-45e1-bdad-af3f2a23dd7f",
+                        "name": "Karimabad"
+                    },
+                    {
+                        "uid": "1a424c21-ffad-4f59-b1d2-89e9bcdfc2e3",
+                        "name": "Altit and baltit forts"
+                    },
+                    {
+                        "uid": "891772c4-06e3-4f4b-b5f5-29147f23b3d5",
+                        "name": "Attabad lake"
+                    },
+                    {
+                        "uid": "3b01ca4d-23b6-430f-8cf3-bb5afd6181c2",
+                        "name": "Passu cones"
+                    },
+                    {
+                        "uid": "68696166-9d09-4df3-a522-4bc806417279",
+                        "name": "Eagle's nest"
+                    },
+                    {
+                        "uid": "d40a9dcf-db97-409d-91ce-277652a314f3",
+                        "name": "Hussaini suspension bridge"
+                    }
+                ]
+            },
+            "a3068637-9e81-4ddd-a46a-90f068a92a01": {
+                "name": "Nagar",
+                "uid": "a3068637-9e81-4ddd-a46a-90f068a92a01",
+                "cities": [
+                    {
+                        "uid": "cadf8cb3-cf4c-4fed-94f0-3f113b008718",
+                        "name": "Nagar khas"
+                    },
+                    {
+                        "uid": "484b7037-4414-4a6c-aba3-99ef372a50d5",
+                        "name": "Hoper glacier"
+                    },
+                    {
+                        "uid": "f0b8cce8-3e31-4f9b-8114-9e2495566c3e",
+                        "name": "Bar valley"
+                    },
+                    {
+                        "uid": "78c6b1ad-a530-47fa-b975-48a108b54f3e",
+                        "name": "Hispar glacier"
+                    },
+                    {
+                        "uid": "72904f7a-6e20-4eb7-b922-7309a0134e4e",
+                        "name": "Golden peak"
+                    }
+                ]
+            },
+            "f6d82674-07cd-4c71-a05f-f0299e50a5f4": {
+                "name": "Astore",
+                "uid": "f6d82674-07cd-4c71-a05f-f0299e50a5f4",
+                "cities": [
+                    {
+                        "uid": "3be36ad8-7266-4c23-9388-83c59ee109e1",
+                        "name": "Rama valley"
+                    },
+                    {
+                        "uid": "72baba61-0177-4d15-800e-43fffee5de52",
+                        "name": "Minimarg"
+                    },
+                    {
+                        "uid": "12b4255b-f391-40ba-981f-64f15288f30b",
+                        "name": "Chilum chokki"
+                    },
+                    {
+                        "uid": "5f7bd040-e4c9-4415-9c3c-f735dcde9f54",
+                        "name": "Astore town"
+                    }
+                ]
+            },
+            "4939df31-7b08-4d53-870e-7cf63d30fbfb": {
+                "name": "Diamer",
+                "uid": "4939df31-7b08-4d53-870e-7cf63d30fbfb",
+                "cities": [
+                    {
+                        "uid": "ad05894e-452c-4bef-835a-99f17b6d7c9a",
+                        "name": "Chilas"
+                    },
+                    {
+                        "uid": "93646ebc-a9b7-4f80-b2dd-e62888183220",
+                        "name": "Tangir valley"
+                    },
+                    {
+                        "uid": "af06bcd2-e5de-4615-a2a6-791b6fca60b1",
+                        "name": "Nanga parbat base camp"
+                    },
+                    {
+                        "uid": "2c6e113f-47ba-4c8e-9dfc-e436434052e0",
+                        "name": "Fairy meadows"
+                    },
+                    {
+                        "uid": "f3e0f7ca-2e56-4962-9b60-48d3f31b21c4",
+                        "name": "Astore valley"
+                    }
+                ]
+            },
+            "d1408fca-1521-4d84-88a7-06b16d12bcf1": {
+                "name": "Darel",
+                "uid": "d1408fca-1521-4d84-88a7-06b16d12bcf1",
+                "cities": [
+                    {
+                        "uid": "89721a99-80c8-4881-8053-77ccafbf5e00",
+                        "name": "Darel"
+                    }
+                ]
+            },
+            "89dcfdc0-7d33-40f9-843f-f2fac98a9f14": {
+                "name": "Tangir",
+                "uid": "89dcfdc0-7d33-40f9-843f-f2fac98a9f14",
+                "cities": [
+                    {
+                        "uid": "62d86541-e3b0-4c9d-8c1c-cc3c8bb3e1f5",
+                        "name": "Tangir"
+                    }
+                ]
+            },
+            "8db66606-b903-4867-8d6a-2c04fc0f2d76": {
+                "name": "Ghanche",
+                "uid": "8db66606-b903-4867-8d6a-2c04fc0f2d76",
+                "cities": [
+                    {
+                        "uid": "90800743-5c96-48eb-bf72-0ee625326062",
+                        "name": "Khaplu"
+                    },
+                    {
+                        "uid": "639f662f-a599-4705-a7a7-bd3cab198117",
+                        "name": "Shigar"
+                    },
+                    {
+                        "uid": "d19b1dbb-be03-49fc-96b1-65d36bc0c5f5",
+                        "name": "Machulu"
+                    },
+                    {
+                        "uid": "4a8b359f-2a3e-41da-8b54-c3213e43e319",
+                        "name": "Hushe"
+                    },
+                    {
+                        "uid": "2c149565-178f-4b10-9dfd-cf916d78d49c",
+                        "name": "Thally"
+                    }
+                ]
+            },
+            "8a20c157-4a97-40f9-a73f-f30b7b826e0f": {
+                "name": "Skardu",
+                "uid": "8a20c157-4a97-40f9-a73f-f30b7b826e0f",
+                "cities": [
+                    {
+                        "uid": "780ed8e8-e5bf-4fdc-82e8-74db8684e743",
+                        "name": "Skardu city"
+                    },
+                    {
+                        "uid": "41abfd32-8fd3-40b5-8c49-4bc5c7430407",
+                        "name": "Rondu valley"
+                    }
+                ]
+            },
+            "1e1ddec2-55ec-46fe-8cbc-608e1749799f": {
+                "name": "Shigar",
+                "uid": "1e1ddec2-55ec-46fe-8cbc-608e1749799f",
+                "cities": [
+                    {
+                        "uid": "384a67f9-e35a-4c1a-b436-e07176b5dac0",
+                        "name": "Shigar fort"
+                    },
+                    {
+                        "uid": "6062e0b0-95f5-4b4f-bd95-e953fd7627ac",
+                        "name": "Shigar valley"
+                    },
+                    {
+                        "uid": "86f57bfb-4af2-4b74-a145-4d46945392ba",
+                        "name": "Shigar river"
+                    },
+                    {
+                        "uid": "a75f9272-b27a-4ff2-bbf4-0883e645e25e",
+                        "name": "Shigar cold desert"
+                    },
+                    {
+                        "uid": "1fb6d735-deb9-4ed3-9e2f-fe8d1597eaed",
+                        "name": "Manthal buddha rock"
+                    }
+                ]
+            },
+            "b5d775a6-b1a2-46aa-bc00-5737ace524b5": {
+                "name": "Kharmang",
+                "uid": "b5d775a6-b1a2-46aa-bc00-5737ace524b5",
+                "cities": [
+                    {
+                        "uid": "381c56b1-87b9-4b33-b6b9-f728e10c77ad",
+                        "name": "Kachura lakes"
+                    },
+                    {
+                        "uid": "03c58a13-645b-4ec8-9480-460bf1982499",
+                        "name": "Kharmang valley"
+                    },
+                    {
+                        "uid": "90a79700-fe03-4927-9140-ef63c2e34ed5",
+                        "name": "Thorgo"
+                    },
+                    {
+                        "uid": "4fb3afd0-1918-4520-886c-e90f012a509a",
+                        "name": "Kharmang fort"
+                    }
+                ]
+            },
+            "e4949a16-8e1c-4a5f-9c75-9b18409431d4": {
+                "name": "Roundu",
+                "uid": "e4949a16-8e1c-4a5f-9c75-9b18409431d4",
+                "cities": [
+                    {
+                        "uid": "e0a50e45-aed4-43c6-b031-221e6fb85d36",
+                        "name": "Roundu"
+                    }
+                ]
+            },
+            "15ff7791-2518-48d6-9c9c-c51a86a7b126": {
+                "name": "Ghizer",
+                "uid": "15ff7791-2518-48d6-9c9c-c51a86a7b126",
+                "cities": [
+                    {
+                        "uid": "855f2674-a74c-4f13-9fe1-9bfd48f8c21b",
+                        "name": "Gahkuch"
+                    },
+                    {
+                        "uid": "ad358e11-8e40-4f30-af23-61e4635fa537",
+                        "name": "Phandar valley"
+                    },
+                    {
+                        "uid": "ce7efccd-8433-4b9a-ae48-af22411fd73b",
+                        "name": "Ishkoman valley"
+                    },
+                    {
+                        "uid": "0c017964-1617-4f79-8575-0616f77607eb",
+                        "name": "Punial"
+                    }
+                ]
+            },
+            "f71072d8-33f9-48f6-b1f4-af98ba1d48db": {
+                "name": "Gupis yasin",
+                "uid": "f71072d8-33f9-48f6-b1f4-af98ba1d48db",
+                "cities": [
+                    {
+                        "uid": "018e1311-b2a0-4459-a379-2ebb5b3e4928",
+                        "name": "Gupis"
+                    },
+                    {
+                        "uid": "93e6aac1-9cdd-4732-b5fb-bb0241a88f3c",
+                        "name": "Yasin valley"
+                    },
+                    {
+                        "uid": "8ed2da7e-2f5f-4432-8660-792b52758673",
+                        "name": "Kirmin"
+                    },
+                    {
+                        "uid": "6701d030-d486-4e27-99aa-c20527de6bbf",
+                        "name": "Gakuch"
+                    }
+                ]
+            }
+        }
+    },
+    "66f481b9-24d0-4bd9-8dad-4af6b66d26d5": {
+        "name": "Sindh",
+        "uid": "66f481b9-24d0-4bd9-8dad-4af6b66d26d5",
+        "districts": {
+            "0e758b14-c6d8-4b6d-9bc6-0e9d2a7f7862": {
+                "name": "Badin",
+                "uid": "0e758b14-c6d8-4b6d-9bc6-0e9d2a7f7862",
+                "cities": [
+                    {
+                        "uid": "e3f07d17-b978-41a5-a25f-da71abd0adc6",
+                        "name": "Badin"
+                    },
+                    {
+                        "uid": "ac2d176d-ba7a-4493-bce2-63ce7eba7fb3",
+                        "name": "Matli"
+                    },
+                    {
+                        "uid": "f65ee7b1-129c-4ab1-9c67-f4634d440a7b",
+                        "name": "Tando bago"
+                    },
+                    {
+                        "uid": "9d64fd35-23c9-4e4d-baf2-838afa2e22b7",
+                        "name": "Golarchi"
+                    },
+                    {
+                        "uid": "2f224b85-ee2e-484f-b974-bea46a48e9dd",
+                        "name": "Talhar"
+                    }
+                ]
+            },
+            "c936adec-fa76-4079-80ff-226949f329b1": {
+                "name": "Ghotki",
+                "uid": "c936adec-fa76-4079-80ff-226949f329b1",
+                "cities": [
+                    {
+                        "uid": "0a07d754-c765-4117-87ab-9ff4539c7cd4",
+                        "name": "Ghotki"
+                    },
+                    {
+                        "uid": "4319722c-9604-4f51-bb51-509f30164844",
+                        "name": "Daharki"
+                    },
+                    {
+                        "uid": "8d891e62-9f39-4c10-b243-d8383b28149f",
+                        "name": "Ubaro"
+                    },
+                    {
+                        "uid": "8e5b0502-1337-4e6d-9062-584bbf37e729",
+                        "name": "Mirpur mathelo"
+                    },
+                    {
+                        "uid": "25eef08a-2476-4139-8441-424d88a86641",
+                        "name": "Khan pur mahar"
+                    }
+                ]
+            },
+            "5002144a-da94-4b6c-a4f3-05abd7ec045a": {
+                "name": "Hyderabad",
+                "uid": "5002144a-da94-4b6c-a4f3-05abd7ec045a",
+                "cities": [
+                    {
+                        "uid": "be8f8fc2-cd3f-429c-8fa5-7a0e6a738aaf",
+                        "name": "Hyderabad"
+                    },
+                    {
+                        "uid": "2b7a63a9-0b8f-494a-a4a2-767988011300",
+                        "name": "Latifabad"
+                    },
+                    {
+                        "uid": "633a86ab-bea9-49b7-a7f1-77ece4a99e00",
+                        "name": "Qasimabad"
+                    },
+                    {
+                        "uid": "04d22357-5570-473c-8c2b-512b3e243ebe",
+                        "name": "Hala"
+                    },
+                    {
+                        "uid": "f63d09e6-7aa8-4a2d-bb73-38d4ab312938",
+                        "name": "Tando jam"
+                    },
+                    {
+                        "uid": "e95c77ff-961e-407f-b9c7-f16b47994c08",
+                        "name": "Husri"
+                    },
+                    {
+                        "uid": "c70e3a1c-f497-4425-a8d5-88c664769386",
+                        "name": "Saeedabad"
+                    },
+                    {
+                        "uid": "fb968bba-eadc-4a92-ac93-68c1da0788f5",
+                        "name": "Matiari"
+                    },
+                    {
+                        "uid": "4f804708-6eb8-4241-b3c9-dee78492488b",
+                        "name": "Bhit shah"
+                    }
+                ]
+            },
+            "473c4bf0-a6ea-49e1-a8b8-630b1b8abd1f": {
+                "name": "Larkana",
+                "uid": "473c4bf0-a6ea-49e1-a8b8-630b1b8abd1f",
+                "cities": [
+                    {
+                        "uid": "0d6b1dba-5ad7-4572-b42d-fb9749ed66c5",
+                        "name": "Bakrani"
+                    },
+                    {
+                        "uid": "100fe31b-f94e-4760-8451-355febecb499",
+                        "name": "Larkana city"
+                    },
+                    {
+                        "uid": "b58a3f14-7c21-4293-a8dc-2afe1c1973cc",
+                        "name": "Ratodero"
+                    },
+                    {
+                        "uid": "cd308cb3-8861-48bc-874a-dc38afbb68aa",
+                        "name": "Dokri"
+                    }
+                ]
+            },
+            "75af0f81-d352-4af3-8f4a-e84b36ece7a8": {
+                "name": "Khairpur",
+                "uid": "75af0f81-d352-4af3-8f4a-e84b36ece7a8",
+                "cities": [
+                    {
+                        "uid": "1b1efd86-e307-41a4-8b44-e53a472031d3",
+                        "name": "Paccagora"
+                    },
+                    {
+                        "uid": "07ce63a6-7bd1-4e54-8925-3997bd7a89c2",
+                        "name": "Khairpur city"
+                    },
+                    {
+                        "uid": "d9dd4941-4663-4df8-b8e1-8f2f9bd53ff9",
+                        "name": "Gambat"
+                    },
+                    {
+                        "uid": "667b6f5e-d870-4cd6-99f2-e5d706875e88",
+                        "name": "Kotdiji"
+                    },
+                    {
+                        "uid": "1ed77802-d778-4072-9578-32dc433d684d",
+                        "name": "Ranipur"
+                    },
+                    {
+                        "uid": "cd665db1-96f6-4b3f-807e-255236222288",
+                        "name": "Kingri"
+                    }
+                ]
+            },
+            "dba30e54-9c0d-4607-b7fb-21b96686a6c9": {
+                "name": "Mirpur khas",
+                "uid": "dba30e54-9c0d-4607-b7fb-21b96686a6c9",
+                "cities": [
+                    {
+                        "uid": "dab32698-6771-4e1a-b9e9-3b18efa3920d",
+                        "name": "Mirpur khas city"
+                    },
+                    {
+                        "uid": "a355b6f0-bb44-40a2-8d77-92d8cf72c3b0",
+                        "name": "Digri"
+                    },
+                    {
+                        "uid": "fb0144e4-6fb8-4a81-bde0-fe29b433d466",
+                        "name": "Tando jan muhammad"
+                    }
+                ]
+            },
+            "a05be591-5171-47f3-9c12-a08547462c39": {
+                "name": "Naushahro feroze",
+                "uid": "a05be591-5171-47f3-9c12-a08547462c39",
+                "cities": [
+                    {
+                        "uid": "a863f15f-5396-4f9a-a83e-4b707b702eb6",
+                        "name": "Naushahro feroze city"
+                    },
+                    {
+                        "uid": "177a2eec-09c1-4fd2-b1f7-86637b2d01a9",
+                        "name": "Moro"
+                    },
+                    {
+                        "uid": "63915855-604d-4c38-a320-c9535a0e9af5",
+                        "name": "Bhiria city"
+                    },
+                    {
+                        "uid": "cbf45426-bc14-4d6f-a1d4-1920a8710008",
+                        "name": "Kandiaro"
+                    }
+                ]
+            },
+            "b9f9c1a9-b500-46f1-8771-29fbec764691": {
+                "name": "Shaheed benazirabad",
+                "uid": "b9f9c1a9-b500-46f1-8771-29fbec764691",
+                "cities": [
+                    {
+                        "uid": "0fccb8d5-713b-42f9-a4ff-d523d53bad3c",
+                        "name": "Nawabshah city"
+                    },
+                    {
+                        "uid": "f05484d1-001f-4893-b8d5-803dd8247871",
+                        "name": "Daur"
+                    },
+                    {
+                        "uid": "a7f52be0-7e7a-43a2-866d-b32d15c56b5e",
+                        "name": "Daulatpur"
+                    },
+                    {
+                        "uid": "d6766187-62a5-40da-9a3b-d2c43e4cc86f",
+                        "name": "Sakrand"
+                    }
+                ]
+            },
+            "54734def-7468-4e15-b31d-fd72b2ebd0c8": {
+                "name": "Jamshoro",
+                "uid": "54734def-7468-4e15-b31d-fd72b2ebd0c8",
+                "cities": [
+                    {
+                        "uid": "68bf422b-2aa3-4f13-9739-fadc59bb9bc1",
+                        "name": "Jamshoro"
+                    },
+                    {
+                        "uid": "23d1db66-4b00-40cd-a697-e585bfbe143d",
+                        "name": "Kotri"
+                    },
+                    {
+                        "uid": "5813708e-3c75-45ea-8c81-4049919a2a8c",
+                        "name": "Manjhand"
+                    },
+                    {
+                        "uid": "d7f40e81-3f3e-4c1f-8cac-e1c5717146ea",
+                        "name": "Sehwan sharif"
+                    }
+                ]
+            },
+            "3b580e8d-6d89-48f7-a0cb-11c9c4f0119f": {
+                "name": "Thatta",
+                "uid": "3b580e8d-6d89-48f7-a0cb-11c9c4f0119f",
+                "cities": [
+                    {
+                        "uid": "fb1e840d-6f2e-42e0-bbd5-004ac5136772",
+                        "name": "Thatta city"
+                    },
+                    {
+                        "uid": "4fce8809-3d89-4018-8c87-f254940cd98d",
+                        "name": "Ghorabari"
+                    },
+                    {
+                        "uid": "7d690526-e198-4045-96ed-5308d526d1ba",
+                        "name": "Kharo chan"
+                    }
+                ]
+            },
+            "fc4b3b91-b840-4cb3-913d-6be70b5613d6": {
+                "name": "Karachi",
+                "uid": "fc4b3b91-b840-4cb3-913d-6be70b5613d6",
+                "cities": [
+                    {
+                        "uid": "e7f1d3f6-4dcb-49fd-bcca-f9de0bf661f5",
+                        "name": "Karachi"
+                    }
+                ]
+            },
+            "6d1e9e36-4d9d-4e04-8ae2-b44438bd6b6e": {
+                "name": "Kashmore",
+                "uid": "6d1e9e36-4d9d-4e04-8ae2-b44438bd6b6e",
+                "cities": [
+                    {
+                        "uid": "3e3c31c8-3ad1-4bf4-b3f7-e93714518d3b",
+                        "name": "Kashmore"
+                    },
+                    {
+                        "uid": "7dd083d6-ac3f-4d33-897b-9803f435ed4f",
+                        "name": "Kandhkot"
+                    },
+                    {
+                        "uid": "f86422a8-53f1-409f-b1e0-d67a02285e2f",
+                        "name": "Tangwani"
+                    },
+                    {
+                        "uid": "ed8a53f3-c71f-4bdc-9cd5-eaf5c0d9de3e",
+                        "name": "Karampur"
+                    }
+                ]
+            },
+            "9c32f79e-619c-476d-bb54-0fb5a595e6cf": {
+                "name": "Qambar shahdadkot",
+                "uid": "9c32f79e-619c-476d-bb54-0fb5a595e6cf",
+                "cities": [
+                    {
+                        "uid": "c8dbec8c-acad-40d3-858a-17d1e1d3cf96",
+                        "name": "Qambar town"
+                    },
+                    {
+                        "uid": "d0097370-f335-4503-a528-cee99a61e555",
+                        "name": "Shahdadkot city"
+                    },
+                    {
+                        "uid": "8599671d-6d3a-4e02-8e8d-81b87b1503b2",
+                        "name": "Warah"
+                    },
+                    {
+                        "uid": "13a7039b-95ec-4230-87cc-19ae9e99e839",
+                        "name": "Miro khan"
+                    }
+                ]
+            },
+            "dc18e3fe-a7e3-4030-b9a2-a04edc6746b1": {
+                "name": "Sujawal",
+                "uid": "dc18e3fe-a7e3-4030-b9a2-a04edc6746b1",
+                "cities": [
+                    {
+                        "uid": "81cec914-e96d-4a34-be8d-8f22ccb659fe",
+                        "name": "Sujawal city"
+                    },
+                    {
+                        "uid": "b92dc6d2-261d-4632-b2cd-97f97ab160d4",
+                        "name": "Kharochhan"
+                    },
+                    {
+                        "uid": "0a700bce-26bd-4d0a-8593-9f152faa55c0",
+                        "name": "Mirpur bathoro"
+                    },
+                    {
+                        "uid": "c3363a60-c61d-4771-b09b-1e906963cd75",
+                        "name": "Jati"
+                    }
+                ]
+            },
+            "7a0a3c2d-85d2-4dba-827c-2ed91ad381bc": {
+                "name": "Matiari",
+                "uid": "7a0a3c2d-85d2-4dba-827c-2ed91ad381bc",
+                "cities": [
+                    {
+                        "uid": "8614da9f-297a-464b-ade2-09311d45742b",
+                        "name": "Matiari city"
+                    },
+                    {
+                        "uid": "6c629627-6eb7-4a4f-b7ab-0a6375608717",
+                        "name": "Hala new"
+                    },
+                    {
+                        "uid": "2b50c8ef-e10a-4a41-af55-7e3e50c41875",
+                        "name": "Siau sharif"
+                    }
+                ]
+            },
+            "7a985cc7-7a53-4321-aa5a-90621c8c0bdd": {
+                "name": "Sanghar",
+                "uid": "7a985cc7-7a53-4321-aa5a-90621c8c0bdd",
+                "cities": [
+                    {
+                        "uid": "4854e4a1-a0c0-48c7-95d1-8a2451067a01",
+                        "name": "Sanghar city"
+                    },
+                    {
+                        "uid": "77a0c4f3-e861-483d-ab55-5cd403ac34d8",
+                        "name": "Shahdadpur"
+                    },
+                    {
+                        "uid": "d5131ad4-b053-4aa8-b08c-ea461e7f6bcb",
+                        "name": "Tando adam"
+                    },
+                    {
+                        "uid": "34a27520-c1c3-498c-8c1c-e401d97edd18",
+                        "name": "Khipro"
+                    }
+                ]
+            },
+            "0f153569-8496-4143-bdfd-4e8a78f72e56": {
+                "name": "Jacobabad",
+                "uid": "0f153569-8496-4143-bdfd-4e8a78f72e56",
+                "cities": [
+                    {
+                        "uid": "2db16d13-4bb8-4a54-81ba-b0c030f7851e",
+                        "name": "Shahdadkot"
+                    },
+                    {
+                        "uid": "a2679a58-f93a-4fad-be9f-dd6736c209f6",
+                        "name": "Jacobabad"
+                    },
+                    {
+                        "uid": "0dc6ab58-d0c9-4033-ac4c-085588a670c4",
+                        "name": "Thul"
+                    },
+                    {
+                        "uid": "88699dfa-a145-4078-872f-14240791b5fc",
+                        "name": "Garhi khairo"
+                    },
+                    {
+                        "uid": "a6a94f48-5bee-480a-bb90-f81e4324f69e",
+                        "name": "Gharhi yasin"
+                    },
+                    {
+                        "uid": "326a9cbb-3292-4e94-b140-d1b4a82c561e",
+                        "name": "Mehrabpur"
+                    }
+                ]
+            },
+            "8e68c361-e090-4745-94c5-7fd11c00d74a": {
+                "name": "Shikarpur",
+                "uid": "8e68c361-e090-4745-94c5-7fd11c00d74a",
+                "cities": [
+                    {
+                        "uid": "ee44d617-8846-4a22-ade5-597d2d6fdbf7",
+                        "name": "Shikarpur city"
+                    },
+                    {
+                        "uid": "f69c7568-d24c-4c14-98c1-a04aeebedc5a",
+                        "name": "Garhi yasin"
+                    },
+                    {
+                        "uid": "f2f306b2-5927-485d-b456-c61b4784ed85",
+                        "name": "Lakhi"
+                    }
+                ]
+            },
+            "49cf6ace-fc16-47b6-988f-933f1126e22e": {
+                "name": "Dadu",
+                "uid": "49cf6ace-fc16-47b6-988f-933f1126e22e",
+                "cities": [
+                    {
+                        "uid": "ca0fc4ff-74ee-4041-907a-39919ba624e4",
+                        "name": "Dadu"
+                    },
+                    {
+                        "uid": "f00c74ee-38a4-43b6-9253-6e486340ca00",
+                        "name": "Johi"
+                    },
+                    {
+                        "uid": "01cc38f3-56f4-4741-ad0d-b90fe346c446",
+                        "name": "Mehar"
+                    },
+                    {
+                        "uid": "c71da80e-7d54-4f11-a5ff-ae4716dab476",
+                        "name": "Khairpur nathan shah"
+                    },
+                    {
+                        "uid": "31c0b72c-52f3-42c2-8cc1-3218009cb47e",
+                        "name": "K.n. shah"
+                    }
+                ]
+            },
+            "0250b016-1d68-4ae0-af28-e98359835102": {
+                "name": "Sukkur",
+                "uid": "0250b016-1d68-4ae0-af28-e98359835102",
+                "cities": [
+                    {
+                        "uid": "736cbf54-8327-4063-b431-ed6ed7fc8eca",
+                        "name": "Sukkur city"
+                    },
+                    {
+                        "uid": "75fe1b2c-e68d-48de-83cc-31f4356501d6",
+                        "name": "Rohri"
+                    },
+                    {
+                        "uid": "3d97980f-ba66-4d45-b992-21014b8980b5",
+                        "name": "Saleh pat"
+                    },
+                    {
+                        "uid": "238976ad-52cf-4de8-9e0d-6ee482cbdcbd",
+                        "name": "Pano aqil"
+                    }
+                ]
+            },
+            "248c77b8-2b42-4e08-9213-0bbbc3de726e": {
+                "name": "Umerkot",
+                "uid": "248c77b8-2b42-4e08-9213-0bbbc3de726e",
+                "cities": [
+                    {
+                        "uid": "2ee35bea-bb61-415e-bb2c-bcd70adace8f",
+                        "name": "Umerkot city"
+                    },
+                    {
+                        "uid": "b8b253e1-6971-487b-9fd2-1ca65d1f0079",
+                        "name": "Kunri"
+                    },
+                    {
+                        "uid": "3aefec6e-39a6-4be1-b7de-5a280366e265",
+                        "name": "Pithoro"
+                    },
+                    {
+                        "uid": "fbcac4bd-1358-48e3-9308-cf6c791edd1d",
+                        "name": "Samaro"
+                    }
+                ]
+            },
+            "5c7e4bec-919f-42ab-aacb-994f0b99b3b4": {
+                "name": "Tharparkar",
+                "uid": "5c7e4bec-919f-42ab-aacb-994f0b99b3b4",
+                "cities": [
+                    {
+                        "uid": "b895bd02-39f2-4559-a6dc-633f1d44102c",
+                        "name": "Mithi"
+                    },
+                    {
+                        "uid": "f13191bd-6f1c-472d-9ff6-02b1080aca9b",
+                        "name": "Nagarparkar"
+                    },
+                    {
+                        "uid": "be1f7f44-831c-4176-8a4b-cc22aa3b5185",
+                        "name": "Islamkot"
+                    },
+                    {
+                        "uid": "e681e67c-67e1-4196-92d7-e2921cae885b",
+                        "name": "Chachro"
+                    }
+                ]
+            },
+            "2e49cb59-9128-49f6-9bc3-1200ee90b35f": {
+                "name": "Tando muhammad khan",
+                "uid": "2e49cb59-9128-49f6-9bc3-1200ee90b35f",
+                "cities": [
+                    {
+                        "uid": "5ae1feeb-42c7-4d8f-823e-a8bf48053b73",
+                        "name": "Tando muhammad khan city"
+                    },
+                    {
+                        "uid": "b9006567-b059-4b25-ba22-32cf87c8b77a",
+                        "name": "Bulri shah karim"
+                    },
+                    {
+                        "uid": "f643ed8c-38b1-42f5-939f-d4f8507e5f36",
+                        "name": "Tando ghulam hyder"
+                    }
+                ]
+            },
+            "fc9ed106-f88c-4b75-bd4a-d366bf510f67": {
+                "name": "Tando allahyar",
+                "uid": "fc9ed106-f88c-4b75-bd4a-d366bf510f67",
+                "cities": [
+                    {
+                        "uid": "dc9ae816-efc6-4ba0-9d00-4fb56bd348eb",
+                        "name": "Tando allahyar city"
+                    },
+                    {
+                        "uid": "ee25ee6c-5f0f-43af-9ea0-ff99048e0795",
+                        "name": "Chamber"
+                    },
+                    {
+                        "uid": "84e64852-8a2e-4555-ac22-b7ecb52f9ef8",
+                        "name": "Jhando mari"
+                    },
+                    {
+                        "uid": "2f82a063-c448-4a65-96ff-7a1f2eea2095",
+                        "name": "Tando ghulam ali"
+                    }
+                ]
+            }
+        }
+    },
+    "3734d13f-5af1-450f-88d4-0087d7d6eebd": {
+        "name": "Punjab",
+        "uid": "3734d13f-5af1-450f-88d4-0087d7d6eebd",
+        "districts": {
+            "e8996d57-77f0-4d36-83e4-117c5167b74c": {
+                "name": "Mianwali",
+                "uid": "e8996d57-77f0-4d36-83e4-117c5167b74c",
+                "cities": [
+                    {
+                        "uid": "85aeb1ba-56f3-41ba-ae10-d5dd28b81dde",
+                        "name": "Musa khel"
+                    },
+                    {
+                        "uid": "4b855ad6-a4b4-4fb6-9f51-cd82dd3fb6b2",
+                        "name": "Mianwali"
+                    },
+                    {
+                        "uid": "ec30f11a-5909-4166-824d-31bf16e71d37",
+                        "name": "Isa khel"
+                    },
+                    {
+                        "uid": "c769a8bc-c0e2-455a-a606-0ec6f14c8e2d",
+                        "name": "Piplan"
+                    },
+                    {
+                        "uid": "f0e4b455-6da0-42a2-9a95-e3f5f7c26239",
+                        "name": "Multan"
+                    }
+                ]
+            },
+            "516fd195-58d2-4ffd-b3ff-ff5c4260afa2": {
+                "name": "Okara",
+                "uid": "516fd195-58d2-4ffd-b3ff-ff5c4260afa2",
+                "cities": [
+                    {
+                        "uid": "ddfe1436-aab5-416d-9f8e-4dcc2e734f79",
+                        "name": "Okara"
+                    },
+                    {
+                        "uid": "66b9a5dd-bbb3-4369-b47b-382bb385e0ec",
+                        "name": "Depalpur"
+                    }
+                ]
+            },
+            "77cb98a7-f145-42c3-87f9-6ca3c888de1d": {
+                "name": "Wazirabad",
+                "uid": "77cb98a7-f145-42c3-87f9-6ca3c888de1d",
+                "cities": [
+                    {
+                        "uid": "49d575a8-522f-4b97-b952-9c3e996115de",
+                        "name": "Wazirabad"
+                    }
+                ]
+            },
+            "d24f1733-dde8-4a1d-b4d4-50020836e886": {
+                "name": "Khanewal",
+                "uid": "d24f1733-dde8-4a1d-b4d4-50020836e886",
+                "cities": [
+                    {
+                        "uid": "4efbd6b3-3270-4f88-ada7-07ac6b00732e",
+                        "name": "Khanewal"
+                    },
+                    {
+                        "uid": "7cc9b16e-b182-4794-afae-ebb8ea024ea6",
+                        "name": "Kabirwala"
+                    }
+                ]
+            },
+            "360c8502-a83f-4532-8c8a-5183f8b9b71e": {
+                "name": "Bhakkar",
+                "uid": "360c8502-a83f-4532-8c8a-5183f8b9b71e",
+                "cities": [
+                    {
+                        "uid": "7a1b68dd-3803-42b9-a7fe-5eee0952489d",
+                        "name": "Bhakkar"
+                    },
+                    {
+                        "uid": "ca45d479-ec9d-4fba-987c-cc4a7385dbad",
+                        "name": "Darya khan"
+                    },
+                    {
+                        "uid": "23c5fe27-de30-4176-aff6-db3c133d63b2",
+                        "name": "Kotla jam"
+                    },
+                    {
+                        "uid": "f1b19d7f-c7ae-4010-9cfb-a012112a97dd",
+                        "name": "Kallur kot"
+                    }
+                ]
+            },
+            "e3ed42ac-debd-4ead-b196-01d5821c8e14": {
+                "name": "Bahawalnagar",
+                "uid": "e3ed42ac-debd-4ead-b196-01d5821c8e14",
+                "cities": [
+                    {
+                        "uid": "14fa6bc7-6e80-488e-920e-6fc4985c699c",
+                        "name": "Bahawalnagar"
+                    },
+                    {
+                        "uid": "3a6216c9-2981-418b-8919-31999816db44",
+                        "name": "Chishtian"
+                    },
+                    {
+                        "uid": "2f68d091-013e-4fde-b641-42b1ab015d34",
+                        "name": "Haroonabad"
+                    },
+                    {
+                        "uid": "c6fce1bf-e3b3-47a5-aa75-6edae1c24dc9",
+                        "name": "Minchinabad"
+                    }
+                ]
+            },
+            "6c72b02f-8e58-401e-b127-6624e52b1362": {
+                "name": "Murree",
+                "uid": "6c72b02f-8e58-401e-b127-6624e52b1362",
+                "cities": [
+                    {
+                        "uid": "85bcea57-5f37-4b14-88b8-8b2b564f64a9",
+                        "name": "Muzaffargarh"
+                    },
+                    {
+                        "uid": "9b05e468-5825-42f8-b2e3-4bdb84b2546b",
+                        "name": "Alipur"
+                    }
+                ]
+            },
+            "e7c5a8fa-bf5e-4d98-b602-e450c43fbf09": {
+                "name": "Attock",
+                "uid": "e7c5a8fa-bf5e-4d98-b602-e450c43fbf09",
+                "cities": [
+                    {
+                        "uid": "7241f1fe-64cd-43a7-a165-cc0d05bafe12",
+                        "name": "Attock city"
+                    },
+                    {
+                        "uid": "eb772e82-acc6-420f-8a47-38f68b6955a8",
+                        "name": "Fateh jang"
+                    },
+                    {
+                        "uid": "fdd0b851-3756-46f3-b24a-d21555fa8c2f",
+                        "name": "Hasan abdal"
+                    }
+                ]
+            },
+            "fd4421b7-2fa4-410c-b043-94528b7d9024": {
+                "name": "Rawalpindi",
+                "uid": "fd4421b7-2fa4-410c-b043-94528b7d9024",
+                "cities": [
+                    {
+                        "uid": "cefee9f7-706d-48e2-85d1-ea146f99f747",
+                        "name": "Rawalpindi"
+                    },
+                    {
+                        "uid": "10e928d1-415a-4194-9eea-58c934fff2f1",
+                        "name": "Taxila"
+                    },
+                    {
+                        "uid": "1ed210c9-5a40-4079-94ab-8376a2fcdf03",
+                        "name": "Wah"
+                    },
+                    {
+                        "uid": "417dc0b6-aa85-4f38-8d30-9367509020fb",
+                        "name": "Gujjar khan"
+                    },
+                    {
+                        "uid": "d28f5753-a207-46dc-bc2c-3d5f1319f231",
+                        "name": "Kahuta"
+                    },
+                    {
+                        "uid": "73a37bd9-c29f-401d-9560-d3b1699eb4dc",
+                        "name": "Mandra"
+                    },
+                    {
+                        "uid": "f85ede4f-652f-4fff-94a6-01d0c5300248",
+                        "name": "Kotli sattian"
+                    },
+                    {
+                        "uid": "75e3a533-7ec0-4827-943f-52d22ede51f4",
+                        "name": "Ghora gali"
+                    },
+                    {
+                        "uid": "d8e9d38d-bcd4-428c-9b2d-24be106a784d",
+                        "name": "Kallar syedan"
+                    }
+                ]
+            },
+            "12d65bec-c7eb-4651-ae84-3ee72d48771d": {
+                "name": "Chakwal",
+                "uid": "12d65bec-c7eb-4651-ae84-3ee72d48771d",
+                "cities": [
+                    {
+                        "uid": "06577bde-1a81-4985-8704-d4b16ae17290",
+                        "name": "Chakwal"
+                    },
+                    {
+                        "uid": "daae19f5-163d-4adc-b66e-1be9cb5d6bdb",
+                        "name": "Talagang"
+                    },
+                    {
+                        "uid": "bf062ae1-e490-4de7-8877-8e369257a2d3",
+                        "name": "Choa saidan shah"
+                    },
+                    {
+                        "uid": "19700746-397f-44a6-8edd-cd77907c777e",
+                        "name": "Kallar kahar"
+                    }
+                ]
+            },
+            "7ffd0fce-289a-4962-b979-c12be6a1b17b": {
+                "name": "Layyah",
+                "uid": "7ffd0fce-289a-4962-b979-c12be6a1b17b",
+                "cities": [
+                    {
+                        "uid": "6a6b1010-6410-42c2-8bf0-9f4d5bb29c53",
+                        "name": "Layyah"
+                    },
+                    {
+                        "uid": "c472d9c0-506e-4c34-b340-6e9cdacf50bc",
+                        "name": "Karor lal esan"
+                    }
+                ]
+            },
+            "b5337ee0-3e9f-47d4-a73c-061801953352": {
+                "name": "Muzaffargarh",
+                "uid": "b5337ee0-3e9f-47d4-a73c-061801953352",
+                "cities": [
+                    {
+                        "uid": "880a2ab2-f737-4757-ba29-53e0585e71a7",
+                        "name": "Nankana sahib"
+                    }
+                ]
+            },
+            "e7f3fe38-f184-440c-b1dc-d2e04fb21196": {
+                "name": "Khushab",
+                "uid": "e7f3fe38-f184-440c-b1dc-d2e04fb21196",
+                "cities": [
+                    {
+                        "uid": "2ca6d6da-1430-4121-a19b-fdada1d45b55",
+                        "name": "Khushab"
+                    },
+                    {
+                        "uid": "235e8abf-92ea-4bf8-9f35-ef4165b28235",
+                        "name": "Noorpur thal"
+                    },
+                    {
+                        "uid": "16e3adfd-4b38-4ca3-9856-637132ad7438",
+                        "name": "Quaidabad"
+                    }
+                ]
+            },
+            "2f42d415-00e2-49d3-b11b-de05bc37e9df": {
+                "name": "Bahawalpur",
+                "uid": "2f42d415-00e2-49d3-b11b-de05bc37e9df",
+                "cities": [
+                    {
+                        "uid": "d2926886-2111-4f82-9621-da09ced53978",
+                        "name": "Bahawalpur"
+                    },
+                    {
+                        "uid": "d3cd46b9-b64f-4b26-8cfa-cac4b0ce2489",
+                        "name": "Ahmadpur east"
+                    },
+                    {
+                        "uid": "c7853a3c-ac5a-467d-be62-b24a0af3fe4d",
+                        "name": "Hasilpur"
+                    },
+                    {
+                        "uid": "e18776dd-0bae-4602-83ea-1e153d0ec0f0",
+                        "name": "Khairpur tamewali"
+                    }
+                ]
+            },
+            "a07e464c-9cc0-4f53-9a9d-32a8696c5e45": {
+                "name": "Pakpattan",
+                "uid": "a07e464c-9cc0-4f53-9a9d-32a8696c5e45",
+                "cities": [
+                    {
+                        "uid": "625e4848-d404-47e5-8015-59066216543c",
+                        "name": "Pakpattan"
+                    }
+                ]
+            },
+            "7c6cbc9d-3b51-40a1-906d-50f63dcdd534": {
+                "name": "Sahiwal",
+                "uid": "7c6cbc9d-3b51-40a1-906d-50f63dcdd534",
+                "cities": [
+                    {
+                        "uid": "efedb498-21b0-40ff-96ac-4eecd3957a70",
+                        "name": "Sahiwal"
+                    }
+                ]
+            },
+            "e3d3c0f3-8ef8-41c9-9b07-d722dafc3a58": {
+                "name": "Jhelum",
+                "uid": "e3d3c0f3-8ef8-41c9-9b07-d722dafc3a58",
+                "cities": [
+                    {
+                        "uid": "13074501-a0cf-4477-b1bc-10c479ed2a32",
+                        "name": "Jhelum"
+                    },
+                    {
+                        "uid": "a2eb9b2f-e29c-4a25-8a35-d332978570d7",
+                        "name": "Dina"
+                    },
+                    {
+                        "uid": "f19a0f4e-5e76-4a49-9bf7-092760331f8c",
+                        "name": "Sohawa"
+                    }
+                ]
+            },
+            "d9600cd5-486c-42a8-b907-31495ddf4e57": {
+                "name": "Mandi bahauddin",
+                "uid": "d9600cd5-486c-42a8-b907-31495ddf4e57",
+                "cities": [
+                    {
+                        "uid": "77964035-3824-4963-a7ed-90398dcbaf79",
+                        "name": "Mandi bahauddin"
+                    },
+                    {
+                        "uid": "2f699895-3d28-4c3a-a457-5deb0de64aeb",
+                        "name": "Phalia"
+                    }
+                ]
+            },
+            "187fe034-c527-40cf-8fe4-19215db45bba": {
+                "name": "Chiniot",
+                "uid": "187fe034-c527-40cf-8fe4-19215db45bba",
+                "cities": [
+                    {
+                        "uid": "5f9389c1-5644-4d10-98ee-97120780a737",
+                        "name": "Chiniot"
+                    },
+                    {
+                        "uid": "ddc22c40-3d67-491c-90fa-5cb94d2cc263",
+                        "name": "Lalian"
+                    }
+                ]
+            },
+            "1c5b2f08-a9af-48c3-8948-f4a88ae01cb7": {
+                "name": "Gujranwala",
+                "uid": "1c5b2f08-a9af-48c3-8948-f4a88ae01cb7",
+                "cities": [
+                    {
+                        "uid": "2d866efa-9a4e-47f0-8c97-23adcb3292a2",
+                        "name": "Gujranwala"
+                    },
+                    {
+                        "uid": "f99ec367-24c0-4bbf-9643-8d45dd7ea386",
+                        "name": "Kamoke"
+                    }
+                ]
+            },
+            "e2b240ba-774f-40f5-bd48-d66a1adcad54": {
+                "name": "Gujrat",
+                "uid": "e2b240ba-774f-40f5-bd48-d66a1adcad54",
+                "cities": [
+                    {
+                        "uid": "cb0df7f7-5ac7-4b1a-aa63-92f139caf414",
+                        "name": "Gujrat"
+                    },
+                    {
+                        "uid": "55ff724e-045e-4e0f-98fd-6a326eab6f9c",
+                        "name": "Kharian"
+                    },
+                    {
+                        "uid": "5200cbdb-119e-47b7-b8e8-c09ee257f654",
+                        "name": "Sara-i-alamgir"
+                    }
+                ]
+            },
+            "9819e198-e269-4302-8144-6c9331c946c2": {
+                "name": "Hafizabad",
+                "uid": "9819e198-e269-4302-8144-6c9331c946c2",
+                "cities": [
+                    {
+                        "uid": "356f42d3-6b1b-4018-875e-eb1ef7cc0598",
+                        "name": "Hafizabad"
+                    },
+                    {
+                        "uid": "d15fed06-f4f2-4ec6-935f-e3567a84fe04",
+                        "name": "Pindi bhattian"
+                    }
+                ]
+            },
+            "3b96b7ed-eb9c-4eda-acea-36ba3063cfd3": {
+                "name": "Kasur",
+                "uid": "3b96b7ed-eb9c-4eda-acea-36ba3063cfd3",
+                "cities": [
+                    {
+                        "uid": "5b3e53d1-2b48-4360-80c1-ceed0b0018a9",
+                        "name": "Kasur"
+                    },
+                    {
+                        "uid": "512167ef-1ef9-43ff-b2f8-7515d54ba490",
+                        "name": "Chunian"
+                    },
+                    {
+                        "uid": "2cc9183b-2d2c-42e6-8916-11e27316eb58",
+                        "name": "Pattoki"
+                    }
+                ]
+            },
+            "6acc38fa-ad51-4dab-baef-d601100f149d": {
+                "name": "Lahore",
+                "uid": "6acc38fa-ad51-4dab-baef-d601100f149d",
+                "cities": [
+                    {
+                        "uid": "c3322d92-d1da-4e6c-8a24-855ca50d7144",
+                        "name": "Lahore"
+                    }
+                ]
+            },
+            "1a8b40c1-681d-4272-9cef-f478fe7154c9": {
+                "name": "Narowal",
+                "uid": "1a8b40c1-681d-4272-9cef-f478fe7154c9",
+                "cities": [
+                    {
+                        "uid": "8314e540-38a7-49e2-9a30-4335580d65d0",
+                        "name": "Narowal"
+                    }
+                ]
+            },
+            "37d68bdc-dffb-48a6-9989-861665175dd1": {
+                "name": "Sheikhupura",
+                "uid": "37d68bdc-dffb-48a6-9989-861665175dd1",
+                "cities": [
+                    {
+                        "uid": "9b3be4dc-7011-40e1-95a5-5f835ffdda2d",
+                        "name": "Sheikhupura"
+                    },
+                    {
+                        "uid": "ad1a973b-f04a-4296-9baf-3c81df086ad7",
+                        "name": "Muridke"
+                    },
+                    {
+                        "uid": "22025c84-0eda-4757-9d11-579938d36667",
+                        "name": "Safdarabad"
+                    },
+                    {
+                        "uid": "049e7560-c81e-4e96-be8a-54fd3dbbb1ea",
+                        "name": "Ferozewala"
+                    }
+                ]
+            },
+            "c6d2bbac-c280-4be4-ae4b-8eaa043b7b30": {
+                "name": "Sialkot",
+                "uid": "c6d2bbac-c280-4be4-ae4b-8eaa043b7b30",
+                "cities": [
+                    {
+                        "uid": "2e1c7f35-e784-437d-8e21-f542e6b89840",
+                        "name": "Sialkot"
+                    },
+                    {
+                        "uid": "e22dfa4e-aaa9-4ea1-bd76-14d570744f92",
+                        "name": "Daska"
+                    },
+                    {
+                        "uid": "52553b8d-316f-42da-9c00-45fc8f371d01",
+                        "name": "Sambrial"
+                    },
+                    {
+                        "uid": "eb897358-7d06-4e4e-8886-6ac8cdb8e53d",
+                        "name": "Pasrur"
+                    }
+                ]
+            },
+            "62d184a5-9f65-42ec-a519-f87680558ff9": {
+                "name": "Faisalabad",
+                "uid": "62d184a5-9f65-42ec-a519-f87680558ff9",
+                "cities": [
+                    {
+                        "uid": "8371d62b-7fde-4f9c-aed7-84bd2e75108e",
+                        "name": "Faisalabad"
+                    },
+                    {
+                        "uid": "d7b7f7aa-15d6-4f0a-84ba-b1344b57e7c5",
+                        "name": "Jaranwala"
+                    },
+                    {
+                        "uid": "4e7ce006-331d-40a8-a055-1949063ea284",
+                        "name": "Tandlianwala"
+                    },
+                    {
+                        "uid": "eb82f021-5d96-42db-8a81-23c405faf7f9",
+                        "name": "Samundri"
+                    }
+                ]
+            },
+            "0c033d61-bb9e-41ee-8026-d77aa700f88a": {
+                "name": "Jhang",
+                "uid": "0c033d61-bb9e-41ee-8026-d77aa700f88a",
+                "cities": [
+                    {
+                        "uid": "fdf1a1b3-aa84-424e-8bc8-28507f1434a0",
+                        "name": "Jhang"
+                    },
+                    {
+                        "uid": "71b14978-2eb7-47dd-bcf4-e652c4a7f374",
+                        "name": "Shorkot"
+                    }
+                ]
+            },
+            "4df48e21-2de6-4a37-be9e-71aa0aa27472": {
+                "name": "Toba tek singh",
+                "uid": "4df48e21-2de6-4a37-be9e-71aa0aa27472",
+                "cities": [
+                    {
+                        "uid": "54e2c61c-c3c1-4bdf-824e-1485482d9b59",
+                        "name": "Toba tek singh"
+                    },
+                    {
+                        "uid": "008c08d9-85c3-4e75-a16a-fba076bdbf22",
+                        "name": "Kamalia"
+                    },
+                    {
+                        "uid": "766645bc-24ba-47bd-9a2f-ec5636939dec",
+                        "name": "Gojra"
+                    },
+                    {
+                        "uid": "e3392390-aa95-40e9-aad1-346da34b768d",
+                        "name": "Rajana"
+                    },
+                    {
+                        "uid": "ab334064-a765-40d2-bbe5-15ef5279b77c",
+                        "name": "Pir mahal"
+                    },
+                    {
+                        "uid": "19a23172-72a9-4c12-85d6-043b753b7be4",
+                        "name": "Chak jhumra"
+                    }
+                ]
+            },
+            "5127ed44-07af-41ae-b6ef-90a0a18c094d": {
+                "name": "Sargodha",
+                "uid": "5127ed44-07af-41ae-b6ef-90a0a18c094d",
+                "cities": [
+                    {
+                        "uid": "18a18257-6eea-45e9-84cb-911766799032",
+                        "name": "Sargodha"
+                    },
+                    {
+                        "uid": "c81b2902-75a1-4c50-965c-222eefa0de42",
+                        "name": "Bhalwal"
+                    },
+                    {
+                        "uid": "ff137e36-fc3e-4414-8598-229583a60f02",
+                        "name": "Shahpur"
+                    },
+                    {
+                        "uid": "1862b1bf-2b21-4f4d-b25e-7561146f76b1",
+                        "name": "Kot momin"
+                    }
+                ]
+            },
+            "84c4fd16-c68a-427e-a9f5-e8209ce8bed9": {
+                "name": "Vehari",
+                "uid": "84c4fd16-c68a-427e-a9f5-e8209ce8bed9",
+                "cities": [
+                    {
+                        "uid": "3270aadb-ddb7-45bc-adf3-a8ce27d5fd18",
+                        "name": "Vehari"
+                    },
+                    {
+                        "uid": "70d2251c-c765-42d7-bb1c-24bfc92c39c9",
+                        "name": "Mailsi"
+                    },
+                    {
+                        "uid": "56abea55-7d13-4bc0-bf1d-c667f7c086b8",
+                        "name": "Burewala"
+                    }
+                ]
+            },
+            "348dd2fb-6aed-4ea2-92fa-e75b7e1f5041": {
+                "name": "Dera ghazi khan",
+                "uid": "348dd2fb-6aed-4ea2-92fa-e75b7e1f5041",
+                "cities": [
+                    {
+                        "uid": "e76c8afa-84e5-4181-9ca1-44f8266aad9d",
+                        "name": "Dera ghazi khan"
+                    },
+                    {
+                        "uid": "3b199edd-0f9a-4f4b-bb53-0be260f96f81",
+                        "name": "Taunsa sharif"
+                    }
+                ]
+            },
+            "6ff15535-8379-4ec7-89f2-440bfde0b0a7": {
+                "name": "Kot addu",
+                "uid": "6ff15535-8379-4ec7-89f2-440bfde0b0a7",
+                "cities": [
+                    {
+                        "uid": "ca21785c-5d18-4cc3-9b16-6205bd00b26c",
+                        "name": "Kot addu"
+                    }
+                ]
+            },
+            "d5816734-280e-4dd3-9f6f-de9d32e32ec4": {
+                "name": "Lodhran",
+                "uid": "d5816734-280e-4dd3-9f6f-de9d32e32ec4",
+                "cities": [
+                    {
+                        "uid": "0a07b6dc-df56-4ad5-b52e-d82f9a7dec01",
+                        "name": "Lodhran"
+                    },
+                    {
+                        "uid": "f9af1a7f-d09f-495e-a7ba-7bcaf77c93b5",
+                        "name": "Dunyapur"
+                    }
+                ]
+            },
+            "38e7df37-b85e-4555-962f-1e9a96482a72": {
+                "name": "Multan",
+                "uid": "38e7df37-b85e-4555-962f-1e9a96482a72",
+                "cities": [
+                    {
+                        "uid": "1bc23864-86c1-4ea8-8faa-5ac626145558",
+                        "name": "Murree"
+                    }
+                ]
+            },
+            "8fc22883-4d36-4e38-b073-b0ae5b81ab9b": {
+                "name": "Rahim yar khan",
+                "uid": "8fc22883-4d36-4e38-b073-b0ae5b81ab9b",
+                "cities": [
+                    {
+                        "uid": "624812b2-3500-4e16-9df5-d983835c2c62",
+                        "name": "Rahim yar khan"
+                    },
+                    {
+                        "uid": "567d352b-b25b-4b5f-aeca-1648a274ce9b",
+                        "name": "Sadiqabad"
+                    },
+                    {
+                        "uid": "1549d986-ec12-4ad3-b6c0-47d8190c75f6",
+                        "name": "Khanpur"
+                    }
+                ]
+            },
+            "9863bf6c-2ea5-49a4-b0b2-0ca3c899e247": {
+                "name": "Rajanpur",
+                "uid": "9863bf6c-2ea5-49a4-b0b2-0ca3c899e247",
+                "cities": [
+                    {
+                        "uid": "ae894c2b-70a0-4766-ac58-e69b1ed13b90",
+                        "name": "Rajanpur"
+                    },
+                    {
+                        "uid": "aeadc648-031a-423f-aa73-b5c2381e2e82",
+                        "name": "Jampur"
+                    }
+                ]
+            },
+            "09a1142f-66f8-4d45-8e0b-a787743abb70": {
+                "name": "Taunsa",
+                "uid": "09a1142f-66f8-4d45-8e0b-a787743abb70",
+                "cities": [
+                    {
+                        "uid": "66275c6e-f87b-4262-a1be-fa40e6dbbe01",
+                        "name": "Taunsa"
+                    }
+                ]
+            }
+        }
+    },
+    "1f0fa356-e239-499f-9662-022dd3f6d411": {
+        "name": "Balochistan",
+        "uid": "1f0fa356-e239-499f-9662-022dd3f6d411",
+        "districts": {
+            "a448ae8d-f602-43b5-b271-0d1e11e91954": {
+                "name": "Chaman",
+                "uid": "a448ae8d-f602-43b5-b271-0d1e11e91954",
+                "cities": [
+                    {
+                        "uid": "7954c266-fc4d-4a20-b32e-fb9a8195663c",
+                        "name": "Chaman"
+                    },
+                    {
+                        "uid": "3de7b467-9b6b-4d1c-bd4d-5c13b4ec4aab",
+                        "name": "Killi abdullah"
+                    },
+                    {
+                        "uid": "edf6f00d-ed94-4c70-9c17-33dd17f84bd0",
+                        "name": "Badini"
+                    },
+                    {
+                        "uid": "10c72872-64f2-4b54-8d19-9829b9032e52",
+                        "name": "Shela bagh"
+                    }
+                ]
+            },
+            "5de7a9bc-f445-44ec-bdf3-c3b2dc4a41d5": {
+                "name": "Awaran",
+                "uid": "5de7a9bc-f445-44ec-bdf3-c3b2dc4a41d5",
+                "cities": [
+                    {
+                        "uid": "ca105662-62c0-4c45-906d-0b681c5e075c",
+                        "name": "Awaran town"
+                    },
+                    {
+                        "uid": "8f849e63-b53d-4f65-8608-ac6991643a7f",
+                        "name": "Mashkay"
+                    },
+                    {
+                        "uid": "a5f018ae-3488-4de6-a7ba-30a7dbc789cc",
+                        "name": "Jhal jhao"
+                    }
+                ]
+            },
+            "f3f276b8-104f-4e41-bca7-96061452d6dd": {
+                "name": "Gwadar",
+                "uid": "f3f276b8-104f-4e41-bca7-96061452d6dd",
+                "cities": [
+                    {
+                        "uid": "c54eff67-8787-4baf-83f1-5590cd11441e",
+                        "name": "Gwadar"
+                    },
+                    {
+                        "uid": "231d5eea-81d5-4e9f-9979-3b62825bd53d",
+                        "name": "Ormara"
+                    },
+                    {
+                        "uid": "c00c5b2e-e56f-479d-b0f2-8bef2d46ee18",
+                        "name": "Pasni"
+                    }
+                ]
+            },
+            "a29b7d9f-5628-4cda-8ff7-a35ed06bfc9f": {
+                "name": "Barkhan",
+                "uid": "a29b7d9f-5628-4cda-8ff7-a35ed06bfc9f",
+                "cities": [
+                    {
+                        "uid": "29fee52f-4d20-436a-8658-7b416a179937",
+                        "name": "Barkhan"
+                    },
+                    {
+                        "uid": "8747631d-9b04-4107-9e6b-5a30c4e5141e",
+                        "name": "Chhadar"
+                    },
+                    {
+                        "uid": "2cd87ba9-f923-43fa-b3c2-9989a9cba238",
+                        "name": "Derakai"
+                    }
+                ]
+            },
+            "581c17b2-8237-4c4f-bd72-8931bbce689e": {
+                "name": "Dera bugti",
+                "uid": "581c17b2-8237-4c4f-bd72-8931bbce689e",
+                "cities": [
+                    {
+                        "uid": "af51a5ca-f399-413b-b673-53f8aac2d868",
+                        "name": "Dera bugti"
+                    },
+                    {
+                        "uid": "58003aae-40ef-4fe5-8abc-871d702bde64",
+                        "name": "Sui"
+                    },
+                    {
+                        "uid": "e25e83b4-cbf0-48a1-b3bb-59b9833d2531",
+                        "name": "Pir koh"
+                    },
+                    {
+                        "uid": "5c8b8783-d06a-49c6-afaa-7fee7be60709",
+                        "name": "Loti"
+                    }
+                ]
+            },
+            "0a71ebff-64b4-4eef-8db6-d46e415a1465": {
+                "name": "Harnai",
+                "uid": "0a71ebff-64b4-4eef-8db6-d46e415a1465",
+                "cities": [
+                    {
+                        "uid": "d4c3c758-2254-4e8e-a61b-eb39696bf4a1",
+                        "name": "Harnai"
+                    },
+                    {
+                        "uid": "6d724fd8-113b-44c1-8899-6df5569e927e",
+                        "name": "Sharigh"
+                    },
+                    {
+                        "uid": "eea102bc-87ec-4ef7-9bfc-10966ebaf5c7",
+                        "name": "Mach"
+                    },
+                    {
+                        "uid": "ba744373-27cc-4d51-b27f-6a229c6b496f",
+                        "name": "Sohan"
+                    },
+                    {
+                        "uid": "9d7334e5-6fd1-40a2-af77-7ba835166d76",
+                        "name": "Ghazluna"
+                    },
+                    {
+                        "uid": "6d94f8dd-936d-46cb-85f4-636926ac05b8",
+                        "name": "Sar gaz"
+                    },
+                    {
+                        "uid": "9b26edc3-4308-4135-a766-468d47610178",
+                        "name": "Abdullah jan bazar"
+                    }
+                ]
+            },
+            "c5df9855-135c-449d-b79b-105cb8deebca": {
+                "name": "Hub",
+                "uid": "c5df9855-135c-449d-b79b-105cb8deebca",
+                "cities": [
+                    {
+                        "uid": "f619d168-12d8-4098-9161-cfbca1c2016c",
+                        "name": "Hub"
+                    },
+                    {
+                        "uid": "eda1f904-afcd-422b-9252-08be8d3be042",
+                        "name": "Winder"
+                    },
+                    {
+                        "uid": "a1f540b7-0165-45c3-b4f4-c53e117376a9",
+                        "name": "Sonmiani"
+                    },
+                    {
+                        "uid": "e9f42b3b-a414-47e0-a410-ee4714d19f68",
+                        "name": "Gadani"
+                    },
+                    {
+                        "uid": "3e2ddde5-9390-4343-8c52-03bfe776b5d0",
+                        "name": "Kund malir"
+                    },
+                    {
+                        "uid": "da0c0072-30cc-4491-afb9-30429eb9f426",
+                        "name": "Darbela"
+                    },
+                    {
+                        "uid": "8d3e476a-9327-4e10-8513-956baf333887",
+                        "name": "Dhand"
+                    },
+                    {
+                        "uid": "a8492ce8-b88f-4b65-834d-8086d34d08db",
+                        "name": "Kundan"
+                    },
+                    {
+                        "uid": "1737401d-2046-4ad2-9893-bd2d6b83bdc1",
+                        "name": "Mulla band"
+                    },
+                    {
+                        "uid": "39e284dd-6824-41b0-aafa-c4aa9210b9d6",
+                        "name": "Shah bilawal"
+                    }
+                ]
+            },
+            "51febe80-3672-45e0-b3ff-77ae751800ca": {
+                "name": "Jafarabad",
+                "uid": "51febe80-3672-45e0-b3ff-77ae751800ca",
+                "cities": [
+                    {
+                        "uid": "21f7b1ba-655b-462e-910e-a0d8b9cfaa55",
+                        "name": "Dera allah yar"
+                    },
+                    {
+                        "uid": "2cecde68-0caf-40f2-8b1b-711ae81fe208",
+                        "name": "Chakar"
+                    }
+                ]
+            },
+            "814d0adf-42ed-452d-8636-8c18cbbedbf5": {
+                "name": "Kech (turbat)",
+                "uid": "814d0adf-42ed-452d-8636-8c18cbbedbf5",
+                "cities": [
+                    {
+                        "uid": "fca87ed3-8532-4ad6-9bed-6ebbdd3637d1",
+                        "name": "Turbat"
+                    }
+                ]
+            },
+            "ca92a2d7-d25d-4f36-8258-a068ffd317e8": {
+                "name": "Khuzdar",
+                "uid": "ca92a2d7-d25d-4f36-8258-a068ffd317e8",
+                "cities": [
+                    {
+                        "uid": "2c38ac79-723c-49eb-8b3c-cbb846adca5a",
+                        "name": "Khuzdar"
+                    },
+                    {
+                        "uid": "9ad96ee1-6b7d-4a13-bfbd-55a411978f23",
+                        "name": "Wadh"
+                    },
+                    {
+                        "uid": "95f0438b-ff06-4987-a4eb-4389a5df080c",
+                        "name": "Awaran"
+                    },
+                    {
+                        "uid": "a4e39fd2-c76d-4f2e-adfc-f789875573bf",
+                        "name": "Baghbana"
+                    },
+                    {
+                        "uid": "3580d2a2-a6b2-40e8-9570-08d4d9a997d6",
+                        "name": "Nal"
+                    }
+                ]
+            },
+            "7bfdc991-b564-4cde-8c05-b544265a674e": {
+                "name": "Killa saifullah",
+                "uid": "7bfdc991-b564-4cde-8c05-b544265a674e",
+                "cities": [
+                    {
+                        "uid": "398a6d8f-c5e8-48a9-a79a-f7aaa14f7a9b",
+                        "name": "Killa saifullah"
+                    },
+                    {
+                        "uid": "cd97eb5d-4298-4b42-9867-61e43b180ca5",
+                        "name": "Muslim bagh"
+                    }
+                ]
+            },
+            "04d68f0e-679d-4bb9-9c68-f2e3281cb2e9": {
+                "name": "Kohlu",
+                "uid": "04d68f0e-679d-4bb9-9c68-f2e3281cb2e9",
+                "cities": [
+                    {
+                        "uid": "45f24c4c-f616-453f-8b56-dd0837ee5648",
+                        "name": "Kohlu"
+                    }
+                ]
+            },
+            "281739ac-292b-4f9c-bb5a-b6bd9567f0a6": {
+                "name": "Kharan",
+                "uid": "281739ac-292b-4f9c-bb5a-b6bd9567f0a6",
+                "cities": [
+                    {
+                        "uid": "1bb7a80a-7853-4b42-82fa-1155304fa0f1",
+                        "name": "Kharan"
+                    },
+                    {
+                        "uid": "61251dd7-d0ea-4816-901d-88b916cc503d",
+                        "name": "Surkhab"
+                    },
+                    {
+                        "uid": "a1b13195-16be-4bf0-8a9e-dd9754cda568",
+                        "name": "Tump"
+                    }
+                ]
+            },
+            "f3fefc0a-73a8-4b42-bec4-0b10089712b4": {
+                "name": "Lasbela",
+                "uid": "f3fefc0a-73a8-4b42-bec4-0b10089712b4",
+                "cities": [
+                    {
+                        "uid": "4eaf24d7-c51b-42e3-ba46-16ba0dc192fb",
+                        "name": "Lasbela"
+                    },
+                    {
+                        "uid": "2227e3fc-afac-4994-909d-277532ad993f",
+                        "name": "Bela"
+                    },
+                    {
+                        "uid": "f7badfa5-5b07-4003-bda6-61b3486fe256",
+                        "name": "Uthal"
+                    }
+                ]
+            },
+            "a8397296-2414-49ac-b0da-30b565078fcc": {
+                "name": "Nushki",
+                "uid": "a8397296-2414-49ac-b0da-30b565078fcc",
+                "cities": [
+                    {
+                        "uid": "f125f7e2-a23b-4b2f-92e2-4394e14ab4f3",
+                        "name": "Nushki"
+                    },
+                    {
+                        "uid": "86f55f7a-f8a9-4016-9243-1e2876461ca0",
+                        "name": "Chagai"
+                    },
+                    {
+                        "uid": "8c956d09-594c-442d-b0f1-687b5147b99b",
+                        "name": "Robat"
+                    }
+                ]
+            },
+            "e4b6d334-b7c5-414e-bde7-e6aeb1eb6747": {
+                "name": "Panjgur",
+                "uid": "e4b6d334-b7c5-414e-bde7-e6aeb1eb6747",
+                "cities": [
+                    {
+                        "uid": "cdfa61f9-9c69-4d7e-8dbb-0a1d89184df1",
+                        "name": "Panjgur"
+                    }
+                ]
+            },
+            "9a12ee8a-c2ba-43a1-a9d9-e6c85d850620": {
+                "name": "Washuk",
+                "uid": "9a12ee8a-c2ba-43a1-a9d9-e6c85d850620",
+                "cities": [
+                    {
+                        "uid": "9223b194-b5ac-4b5a-8fdb-58136899bae7",
+                        "name": "Washuk"
+                    },
+                    {
+                        "uid": "8309c698-aaaf-4fb7-bd4a-68a4a65d22f3",
+                        "name": "Mashkel"
+                    }
+                ]
+            },
+            "fae86d9b-acf6-48c1-9905-5eb6c0c1c8fe": {
+                "name": "Usta muhammad",
+                "uid": "fae86d9b-acf6-48c1-9905-5eb6c0c1c8fe",
+                "cities": [
+                    {
+                        "uid": "72a0d5c3-e529-4f80-b6c8-374b7dd3300d",
+                        "name": "Usta muhammad"
+                    }
+                ]
+            },
+            "164c94ea-0fb5-4941-99b1-3973c02c1de0": {
+                "name": "Musakhel",
+                "uid": "164c94ea-0fb5-4941-99b1-3973c02c1de0",
+                "cities": [
+                    {
+                        "uid": "62fea0a7-0240-4cdf-94ae-5690e893e27b",
+                        "name": "Musakhel"
+                    }
+                ]
+            },
+            "c6bb7e98-6ca5-4df8-aaaa-4a4a62491ee4": {
+                "name": "Nasirabad",
+                "uid": "c6bb7e98-6ca5-4df8-aaaa-4a4a62491ee4",
+                "cities": [
+                    {
+                        "uid": "3f9ec1b8-6094-4602-919f-641f7397d36e",
+                        "name": "Nasirabad"
+                    },
+                    {
+                        "uid": "79f5ac8c-9f2a-48e8-bc5f-1ae1da1635c0",
+                        "name": "Dera murad jamali"
+                    },
+                    {
+                        "uid": "e6ed1503-6dad-411a-b191-2d0b5f12aedf",
+                        "name": "Tamboo"
+                    },
+                    {
+                        "uid": "d8b8a4e8-8aa8-4fdf-8b0f-568e5d6080ac",
+                        "name": "Rojhan jamali"
+                    }
+                ]
+            },
+            "93532585-3318-4743-ad3e-b53762121462": {
+                "name": "Sherani",
+                "uid": "93532585-3318-4743-ad3e-b53762121462",
+                "cities": [
+                    {
+                        "uid": "94d56f60-4b4f-491a-ba27-6fbd8ac08709",
+                        "name": "Sherani"
+                    }
+                ]
+            },
+            "95036109-f892-480f-aa0e-50ee7978f6ab": {
+                "name": "Sibi",
+                "uid": "95036109-f892-480f-aa0e-50ee7978f6ab",
+                "cities": [
+                    {
+                        "uid": "5977298a-94c1-49f6-90b0-2017b96eeee3",
+                        "name": "Sibi"
+                    },
+                    {
+                        "uid": "d11918f1-16c5-4908-8b4b-644f54dd0681",
+                        "name": "Bhag"
+                    },
+                    {
+                        "uid": "061c5bbf-4841-43b4-a5b2-ff37a5732de1",
+                        "name": "Dadar"
+                    }
+                ]
+            },
+            "de3d09a2-f3d0-41de-965b-ad256f7d711b": {
+                "name": "Killa abdullah",
+                "uid": "de3d09a2-f3d0-41de-965b-ad256f7d711b",
+                "cities": [
+                    {
+                        "uid": "e0a97a70-a52a-44a2-b147-06ac26f48679",
+                        "name": "Killa abdullah"
+                    },
+                    {
+                        "uid": "8c279716-c2b5-40ff-8d44-95848465487d",
+                        "name": "Gulistan"
+                    }
+                ]
+            },
+            "be3f605a-693e-491c-add1-f2220d4bf260": {
+                "name": "Pishin",
+                "uid": "be3f605a-693e-491c-add1-f2220d4bf260",
+                "cities": [
+                    {
+                        "uid": "9f32b952-613a-4b33-8b28-6c70a8af96e8",
+                        "name": "Pishin"
+                    },
+                    {
+                        "uid": "ead11df6-0d31-4b3f-ac5d-09a4e440fd1c",
+                        "name": "Barshore"
+                    }
+                ]
+            },
+            "516bc008-b1a6-434f-9a17-2f8da6f696e1": {
+                "name": "Ziarat",
+                "uid": "516bc008-b1a6-434f-9a17-2f8da6f696e1",
+                "cities": [
+                    {
+                        "uid": "a6eb0f57-b84d-4151-a820-dfa4b4ea52a7",
+                        "name": "Ziarat"
+                    },
+                    {
+                        "uid": "ab5a4eb9-d33a-4ec3-9341-428ed57debf1",
+                        "name": "Khanozai"
+                    }
+                ]
+            },
+            "de7c9607-249f-4473-b4af-d7040981a426": {
+                "name": "Loralai",
+                "uid": "de7c9607-249f-4473-b4af-d7040981a426",
+                "cities": [
+                    {
+                        "uid": "db5e8133-f6ad-4e29-98b6-7012bd188104",
+                        "name": "Loralai"
+                    }
+                ]
+            },
+            "89050663-38c9-4e89-9a41-2903f0bc52b7": {
+                "name": "Quetta",
+                "uid": "89050663-38c9-4e89-9a41-2903f0bc52b7",
+                "cities": [
+                    {
+                        "uid": "6847b684-3651-4fd5-9fb4-cfd3b4ec46c8",
+                        "name": "Quetta"
+                    }
+                ]
+            },
+            "cfc446e5-d2ed-4c72-bbb7-63ed773fbfef": {
+                "name": "Zhob",
+                "uid": "cfc446e5-d2ed-4c72-bbb7-63ed773fbfef",
+                "cities": [
+                    {
+                        "uid": "1ffa5467-0547-4207-ac87-e9c17c022e6d",
+                        "name": "Zhob"
+                    }
+                ]
+            },
+            "19ed0ac1-fdaa-4f27-9642-8da3dde4683c": {
+                "name": "Chagai",
+                "uid": "19ed0ac1-fdaa-4f27-9642-8da3dde4683c",
+                "cities": [
+                    {
+                        "uid": "96708e02-e269-49ce-85e6-044b3e796d7a",
+                        "name": "Dalbandin"
+                    },
+                    {
+                        "uid": "8f8aefe9-ee1f-4af1-a8ad-977e79020a0d",
+                        "name": "Nok kundi"
+                    },
+                    {
+                        "uid": "7c5eff89-0749-4810-ae65-7d5f5b250d1e",
+                        "name": "Taftan"
+                    }
+                ]
+            },
+            "9a92e14f-d8d5-447d-8e59-6a226d66e3c3": {
+                "name": "Kalat",
+                "uid": "9a92e14f-d8d5-447d-8e59-6a226d66e3c3",
+                "cities": [
+                    {
+                        "uid": "13bbace5-f4f1-448f-bd4c-198b7d4f7a69",
+                        "name": "Kalat"
+                    },
+                    {
+                        "uid": "b1ade2cb-61f0-48bc-b607-605206c1845f",
+                        "name": "Surab"
+                    }
+                ]
+            },
+            "074c63df-6e26-4795-81ef-44db54be6b4c": {
+                "name": "Mastung",
+                "uid": "074c63df-6e26-4795-81ef-44db54be6b4c",
+                "cities": [
+                    {
+                        "uid": "ce5f40ae-8305-4911-baba-249704cdc501",
+                        "name": "Mastung"
+                    }
+                ]
+            },
+            "1b722ba1-b4ac-43db-ab3d-b14c15cd3444": {
+                "name": "Jhal magsi",
+                "uid": "1b722ba1-b4ac-43db-ab3d-b14c15cd3444",
+                "cities": [
+                    {
+                        "uid": "50bfd6b7-b0d9-41c5-b8ec-64a60daa4f75",
+                        "name": "Jhal magsi"
+                    },
+                    {
+                        "uid": "a21d1f71-c99b-4cbf-9940-a0651d740a45",
+                        "name": "Magsi"
+                    },
+                    {
+                        "uid": "8dfee88e-e021-4f88-9223-d68d088c8f59",
+                        "name": "Gandawah"
+                    },
+                    {
+                        "uid": "869f486c-a159-401d-b9ed-8f387e03f235",
+                        "name": "Miran shah"
+                    }
+                ]
+            },
+            "b8b52b48-6821-4954-b4be-56849459917d": {
+                "name": "Kachhi (bolan)",
+                "uid": "b8b52b48-6821-4954-b4be-56849459917d",
+                "cities": [
+                    {
+                        "uid": "ebeacf9c-4df3-4c60-bcfd-e91d3a60421b",
+                        "name": "Kachhi"
+                    },
+                    {
+                        "uid": "c35f96b6-3711-4dd2-ac00-7041bfc17d69",
+                        "name": "Dhadar"
+                    },
+                    {
+                        "uid": "b50756b3-902d-426a-9cfc-b5ada0fa7b7b",
+                        "name": "Babarloi"
+                    }
+                ]
+            }
+        }
+    },
+    "a8280f8c-b009-4c45-aa76-9b5b4d777c48": {
+        "name": "Kpk",
+        "uid": "a8280f8c-b009-4c45-aa76-9b5b4d777c48",
+        "districts": {
+            "bca2c5f5-3a9e-42f5-8e88-7d08e64d39d5": {
+                "name": "Bannu",
+                "uid": "bca2c5f5-3a9e-42f5-8e88-7d08e64d39d5",
+                "cities": [
+                    {
+                        "uid": "5a00eae2-7a7c-445d-a8a4-1e506a80a62b",
+                        "name": "Bannu"
+                    },
+                    {
+                        "uid": "c4c9f5b6-6f5e-41d3-8877-9f614c30c3ac",
+                        "name": "Domel"
+                    },
+                    {
+                        "uid": "77f3659c-bb6d-4fed-aade-fc2795dfbf5f",
+                        "name": "Ghoriwala"
+                    }
+                ]
+            },
+            "3c955c71-1f45-4eaf-b72f-ee1a03e08ba6": {
+                "name": "Charsadda",
+                "uid": "3c955c71-1f45-4eaf-b72f-ee1a03e08ba6",
+                "cities": [
+                    {
+                        "uid": "282c47c0-b829-4392-8e2e-94374bfa9aef",
+                        "name": "Charsadda"
+                    },
+                    {
+                        "uid": "30eae792-cc2a-4e09-b917-4ef7982e89c8",
+                        "name": "Shabqadar"
+                    },
+                    {
+                        "uid": "2c2dc41e-34a8-4b2a-b33d-6fbd94673327",
+                        "name": "Tangi"
+                    },
+                    {
+                        "uid": "cb4f7494-87d7-44ff-9dfa-22c729dd2042",
+                        "name": "Utmanzai"
+                    },
+                    {
+                        "uid": "3095fdec-3ff7-4727-a041-e6bd925b1750",
+                        "name": "Rajjar"
+                    }
+                ]
+            },
+            "d33bad78-3ba5-41f8-9c53-d09a4dc4efb7": {
+                "name": "Abbottabad",
+                "uid": "d33bad78-3ba5-41f8-9c53-d09a4dc4efb7",
+                "cities": [
+                    {
+                        "uid": "f84342fd-e04d-4519-adc0-4681a1ec7c22",
+                        "name": "Abbottabad"
+                    },
+                    {
+                        "uid": "f2442638-f719-4316-96bc-c0d291f0e7f0",
+                        "name": "Havelian"
+                    },
+                    {
+                        "uid": "ade54c4f-1784-48be-b0fe-b8a7747814bf",
+                        "name": "Nathia gali"
+                    }
+                ]
+            },
+            "83950344-2eb0-4e28-aa09-551f1c763ab2": {
+                "name": "Buner",
+                "uid": "83950344-2eb0-4e28-aa09-551f1c763ab2",
+                "cities": [
+                    {
+                        "uid": "8a2daee3-04bc-49f8-b50e-57706e09f1af",
+                        "name": "Buner"
+                    },
+                    {
+                        "uid": "14ef08c6-3a0d-47ff-a716-2b8ed7ee3a1b",
+                        "name": "Daggar"
+                    },
+                    {
+                        "uid": "b2db6cb6-f241-48e0-9b98-0ac7fc5033e2",
+                        "name": "Totalai"
+                    },
+                    {
+                        "uid": "559b7fdb-cbbd-4497-8f72-ca58dab1fb1b",
+                        "name": "Chamla"
+                    },
+                    {
+                        "uid": "774c443d-db2e-4a7b-9dea-5de299db563b",
+                        "name": "Cham"
+                    }
+                ]
+            },
+            "ee6ff9ce-d1fb-49ee-8a68-c632c335d6e0": {
+                "name": "Hangu",
+                "uid": "ee6ff9ce-d1fb-49ee-8a68-c632c335d6e0",
+                "cities": [
+                    {
+                        "uid": "08b0072f-1da4-49e7-9331-369d4837decc",
+                        "name": "Hangu"
+                    },
+                    {
+                        "uid": "2eb4e48e-ab69-4cd1-a960-ea5dfe41dac4",
+                        "name": "Doaba"
+                    },
+                    {
+                        "uid": "16d46d90-ba1f-46d2-abfb-8b8d74e0bdea",
+                        "name": "Thall"
+                    }
+                ]
+            },
+            "923fffd3-a5f1-46c6-bdd2-9ffef08a030a": {
+                "name": "Bajaur",
+                "uid": "923fffd3-a5f1-46c6-bdd2-9ffef08a030a",
+                "cities": [
+                    {
+                        "uid": "a8c975e2-7d33-490c-ac9f-dbb98e01b1b0",
+                        "name": "Khar"
+                    },
+                    {
+                        "uid": "2fadef18-075f-4465-860e-f39595e87a57",
+                        "name": "Inayat killi"
+                    },
+                    {
+                        "uid": "85b1c5dc-86b7-4f3f-b9b3-a9287a7c5759",
+                        "name": "Mamoond"
+                    },
+                    {
+                        "uid": "f6ce72be-0d79-41a0-a745-57f9f2e5d970",
+                        "name": "Loe sam"
+                    },
+                    {
+                        "uid": "4b48b117-ebc4-49b8-814b-569475da56c7",
+                        "name": "Nawagai"
+                    }
+                ]
+            },
+            "2ec2538c-3052-4196-b72f-7a4918f82bab": {
+                "name": "Batagram",
+                "uid": "2ec2538c-3052-4196-b72f-7a4918f82bab",
+                "cities": [
+                    {
+                        "uid": "4360cd7e-d83a-4ddb-9476-bcb7588ad93a",
+                        "name": "Batagram"
+                    },
+                    {
+                        "uid": "a92cfdbc-c54c-4ec4-a51d-0bdd7e99bdcd",
+                        "name": "Allai"
+                    },
+                    {
+                        "uid": "427e58f2-d82e-4db8-bd1a-5d93f2d04e26",
+                        "name": "Thakot"
+                    },
+                    {
+                        "uid": "736a62d5-b1af-418a-ac13-380a2e4ba126",
+                        "name": "Shangla"
+                    }
+                ]
+            },
+            "c2bfce4a-1b47-47d1-a679-450e0964a3a3": {
+                "name": "Chitral",
+                "uid": "c2bfce4a-1b47-47d1-a679-450e0964a3a3",
+                "cities": [
+                    {
+                        "uid": "4dbbf5af-cad2-44f3-ac66-4d34db1d5265",
+                        "name": "Chitral"
+                    },
+                    {
+                        "uid": "e72f4380-7243-451a-addb-3ea47e86cc1b",
+                        "name": "Drosh"
+                    },
+                    {
+                        "uid": "41d8a2fb-0bc6-4128-ab2a-773f088f87f9",
+                        "name": "Ayun"
+                    }
+                ]
+            },
+            "374299aa-1781-42dd-8717-4384a7cd0554": {
+                "name": "Dera ismail khan",
+                "uid": "374299aa-1781-42dd-8717-4384a7cd0554",
+                "cities": [
+                    {
+                        "uid": "3e297fab-5e16-4e87-a4d6-255cb13e73a4",
+                        "name": "Dera ismail khan"
+                    },
+                    {
+                        "uid": "8515a689-a92e-4fef-b266-c2c0c39b6ef3",
+                        "name": "Paroa"
+                    },
+                    {
+                        "uid": "08d9f667-0d48-442b-b1e4-38f3c866017f",
+                        "name": "Kulachi"
+                    },
+                    {
+                        "uid": "eb8b2af4-55af-43a1-a010-18f3cfdf0155",
+                        "name": "Paharpur"
+                    }
+                ]
+            },
+            "f8ef0594-9d73-4f91-b6fc-9bf3bb3bbd26": {
+                "name": "Khyber",
+                "uid": "f8ef0594-9d73-4f91-b6fc-9bf3bb3bbd26",
+                "cities": [
+                    {
+                        "uid": "634d315b-8cf1-427b-9768-d6fb2bc1f17d",
+                        "name": "Khyber pass"
+                    },
+                    {
+                        "uid": "4b756d88-e83b-4ac4-8f2b-1437e91429b7",
+                        "name": "Jamrud"
+                    },
+                    {
+                        "uid": "0195b608-3876-461b-b26e-89bdbfae7a9a",
+                        "name": "Landi kotal"
+                    },
+                    {
+                        "uid": "43b82f25-e5f2-4156-a2a3-df2a136851b9",
+                        "name": "Bara"
+                    },
+                    {
+                        "uid": "40e9ca46-4fda-499d-a946-80e69a281448",
+                        "name": "Tirah valley"
+                    }
+                ]
+            },
+            "ce02dede-1eed-479e-881e-d6de08f1e7a2": {
+                "name": "Kurram",
+                "uid": "ce02dede-1eed-479e-881e-d6de08f1e7a2",
+                "cities": [
+                    {
+                        "uid": "ec4f763c-308c-4d7e-8908-74999205b0dd",
+                        "name": "Parachinar"
+                    },
+                    {
+                        "uid": "66fe7abb-4c32-44e3-8a39-5d3d5288d32f",
+                        "name": "Sadda"
+                    },
+                    {
+                        "uid": "f1a06619-0565-420e-b017-88d5627d9cb4",
+                        "name": "Alizai"
+                    },
+                    {
+                        "uid": "899d2a5d-e6b9-443b-9df7-8736391a0728",
+                        "name": "Dogar"
+                    },
+                    {
+                        "uid": "05b9caca-f2e6-4654-bd76-ea77f37123df",
+                        "name": "Kharlachi"
+                    }
+                ]
+            },
+            "2f111079-33f3-4864-a790-c3e6f391514c": {
+                "name": "Malakand",
+                "uid": "2f111079-33f3-4864-a790-c3e6f391514c",
+                "cities": [
+                    {
+                        "uid": "a8c238aa-3826-4c9d-80c2-9cd213d181a4",
+                        "name": "Malakand"
+                    },
+                    {
+                        "uid": "fb7e9afa-dc73-43b9-ab5f-56450943214f",
+                        "name": "Batkhela"
+                    },
+                    {
+                        "uid": "44b90d0d-1ec2-4d59-b8ed-c8d90f147b5f",
+                        "name": "Dargai"
+                    },
+                    {
+                        "uid": "794a3182-d2b0-4186-8778-e1c01406bb38",
+                        "name": "Thana"
+                    }
+                ]
+            },
+            "0de83a0f-a37a-4f18-9002-06a62f248d85": {
+                "name": "Mardan",
+                "uid": "0de83a0f-a37a-4f18-9002-06a62f248d85",
+                "cities": [
+                    {
+                        "uid": "97c172fb-bd22-4929-8bb6-28a499067b86",
+                        "name": "Mardan"
+                    },
+                    {
+                        "uid": "9f58610c-51c1-49fa-8611-78c0b4e273b6",
+                        "name": "Katlang"
+                    },
+                    {
+                        "uid": "ea457074-ccfc-49fc-a573-245f9ee3eb11",
+                        "name": "Takht bhai"
+                    },
+                    {
+                        "uid": "17c7d9d2-e26a-4e47-80af-3e804afe7bda",
+                        "name": "Sawal dher"
+                    },
+                    {
+                        "uid": "b586ef62-a38f-405c-8160-46f536247f6c",
+                        "name": "Shergarh"
+                    }
+                ]
+            },
+            "57267887-d58b-43f2-8555-8820c678d83a": {
+                "name": "Haripur",
+                "uid": "57267887-d58b-43f2-8555-8820c678d83a",
+                "cities": [
+                    {
+                        "uid": "c79e8acf-9ff5-47bf-9c49-605c14fb97fb",
+                        "name": "Haripur"
+                    },
+                    {
+                        "uid": "ed36d675-3c99-43b1-97d0-937fecb2a092",
+                        "name": "Khanpor"
+                    },
+                    {
+                        "uid": "a286f89a-cd4e-4f14-a909-f1795e814e4d",
+                        "name": "Bagra"
+                    }
+                ]
+            },
+            "8e7baf83-fbd1-46eb-a28b-584c215b425b": {
+                "name": "Lower dir",
+                "uid": "8e7baf83-fbd1-46eb-a28b-584c215b425b",
+                "cities": [
+                    {
+                        "uid": "c868ea75-42a6-42d1-8e4f-19fcd67ae0be",
+                        "name": "Timergara"
+                    },
+                    {
+                        "uid": "1d4b0696-4b30-4c7d-96b4-5f2abbb3bdf0",
+                        "name": "Balambat"
+                    },
+                    {
+                        "uid": "21416cd4-41de-46a2-a8dd-7df12e8a1e4b",
+                        "name": "Chakdara"
+                    },
+                    {
+                        "uid": "759d9338-a11c-4852-af6d-ca8938c653d1",
+                        "name": "Maidan"
+                    }
+                ]
+            },
+            "7322fcae-3207-4422-8877-5ea6175e66da": {
+                "name": "Mansehra",
+                "uid": "7322fcae-3207-4422-8877-5ea6175e66da",
+                "cities": [
+                    {
+                        "uid": "6fbac98b-1f78-48c5-93d2-d8d5ea43af75",
+                        "name": "Mansehra"
+                    },
+                    {
+                        "uid": "c8245924-25e0-43f6-b5c9-955db00129c3",
+                        "name": "Balakot"
+                    },
+                    {
+                        "uid": "19275020-a0c4-4089-b391-514f0e101e62",
+                        "name": "Oghi"
+                    },
+                    {
+                        "uid": "6740d5ba-0776-4b62-aa50-6f51e735be8e",
+                        "name": "Battagram"
+                    }
+                ]
+            },
+            "dd561bd9-39ba-454f-bf00-1ade2afb5caf": {
+                "name": "Shangla",
+                "uid": "dd561bd9-39ba-454f-bf00-1ade2afb5caf",
+                "cities": [
+                    {
+                        "uid": "36d2bbb7-2d5b-4aad-a3bd-b56421028a42",
+                        "name": "Alpuri"
+                    },
+                    {
+                        "uid": "e8fe336a-aba5-4aa2-b233-27c2a43e63fb",
+                        "name": "Besham"
+                    },
+                    {
+                        "uid": "b5c4c979-7a92-4f0d-a384-3ebcb40ae817",
+                        "name": "Puran"
+                    },
+                    {
+                        "uid": "24cba7d9-0312-4cf0-ad0e-d7c49bb0e41b",
+                        "name": "Martung"
+                    },
+                    {
+                        "uid": "ed0af88b-0447-482a-917a-117bb8745543",
+                        "name": "Bahrain"
+                    }
+                ]
+            },
+            "4f76c583-1a71-460e-9155-9e9d1144435f": {
+                "name": "Lower chitral",
+                "uid": "4f76c583-1a71-460e-9155-9e9d1144435f",
+                "cities": [
+                    {
+                        "uid": "60e13f22-628f-4771-aee4-c8139757e3b0",
+                        "name": "Chitral town"
+                    },
+                    {
+                        "uid": "d4b532f6-e793-461d-9d1a-3f860900bc49",
+                        "name": "Mastuj"
+                    }
+                ]
+            },
+            "fbe9c2f2-f189-4162-a67a-892ecd290c02": {
+                "name": "Mohmand",
+                "uid": "fbe9c2f2-f189-4162-a67a-892ecd290c02",
+                "cities": [
+                    {
+                        "uid": "c4f5c57a-208d-4907-a5f9-547581bb3efa",
+                        "name": "Gandao"
+                    },
+                    {
+                        "uid": "cc71a108-715b-46b4-9bb4-2f52064cf389",
+                        "name": "Safi"
+                    },
+                    {
+                        "uid": "b713d478-c90c-44d2-8a25-6fc6613d54b4",
+                        "name": "Ekka ghund"
+                    },
+                    {
+                        "uid": "f1912474-6ef7-4b6e-b2a1-7350ceca894a",
+                        "name": "Ambar"
+                    },
+                    {
+                        "uid": "639395cf-bf75-44d3-8bd5-827bbc3e26d1",
+                        "name": "Halimzai"
+                    }
+                ]
+            },
+            "ec72d131-d180-4754-a559-5cff2873da54": {
+                "name": "North waziristan",
+                "uid": "ec72d131-d180-4754-a559-5cff2873da54",
+                "cities": [
+                    {
+                        "uid": "25988f81-de40-47e5-928a-923b13f49ec9",
+                        "name": "Miranshah"
+                    },
+                    {
+                        "uid": "77605464-a9f1-4ce8-bc3b-c5e15090e05b",
+                        "name": "Mir ali"
+                    },
+                    {
+                        "uid": "b45f4c23-896f-4325-873d-3c413c83b265",
+                        "name": "Razmak"
+                    },
+                    {
+                        "uid": "75f42f29-0b09-4ed4-bb75-7d2597657e40",
+                        "name": "Ghulam khan"
+                    },
+                    {
+                        "uid": "d020f7c9-9fb1-4044-b5b9-f593dd40546f",
+                        "name": "Datta khel"
+                    }
+                ]
+            },
+            "2666b775-525e-46ea-9460-a3cf858f4b0b": {
+                "name": "Orakzai",
+                "uid": "2666b775-525e-46ea-9460-a3cf858f4b0b",
+                "cities": [
+                    {
+                        "uid": "004c8ab7-17d3-4837-a1bf-22a26c2758c8",
+                        "name": "Ghazi"
+                    },
+                    {
+                        "uid": "9ddfaaa3-1955-4ee5-baf0-f99277f02a67",
+                        "name": "Kalaya"
+                    },
+                    {
+                        "uid": "c1c577dc-16c2-4e08-baf9-1b631fa09089",
+                        "name": "Mirzalai"
+                    },
+                    {
+                        "uid": "ec1d8c92-36b7-4f05-a3fb-287bbf08c472",
+                        "name": "Dabori"
+                    }
+                ]
+            },
+            "adfb7101-ec4c-43df-a21d-13f197b3879b": {
+                "name": "Peshawar",
+                "uid": "adfb7101-ec4c-43df-a21d-13f197b3879b",
+                "cities": [
+                    {
+                        "uid": "7ff3e0db-3dc7-419f-9f7e-50246a911ba9",
+                        "name": "Peshawar"
+                    },
+                    {
+                        "uid": "bf614ee7-e54c-4f19-9075-e073dcdee105",
+                        "name": "Hayatabad"
+                    }
+                ]
+            },
+            "494d8afd-6850-4dc2-b9ab-3b81276448c2": {
+                "name": "Karak",
+                "uid": "494d8afd-6850-4dc2-b9ab-3b81276448c2",
+                "cities": [
+                    {
+                        "uid": "333450da-26d1-4cb5-aeb8-ee7606dbfd18",
+                        "name": "Karak"
+                    },
+                    {
+                        "uid": "ef752329-1eb9-46a6-ae79-263acd9badf3",
+                        "name": "Teri"
+                    }
+                ]
+            },
+            "cabe0c66-cf83-4a84-bc3e-3f374691adea": {
+                "name": "Kohat",
+                "uid": "cabe0c66-cf83-4a84-bc3e-3f374691adea",
+                "cities": [
+                    {
+                        "uid": "79791960-5281-482d-aaa2-4077164eb9b5",
+                        "name": "Kohat"
+                    },
+                    {
+                        "uid": "dad4fca3-c7fe-4ecd-b8f7-76d4c668272c",
+                        "name": "Kohat cantonment"
+                    }
+                ]
+            },
+            "4572d6bb-de07-47c1-9cfa-4b414ed8e3bc": {
+                "name": "Kolai palas",
+                "uid": "4572d6bb-de07-47c1-9cfa-4b414ed8e3bc",
+                "cities": [
+                    {
+                        "uid": "c7e20ac8-fcff-4634-907c-1b26cfdeccfe",
+                        "name": "Kolai-palas"
+                    }
+                ]
+            },
+            "21f81979-a4b3-44c1-a95d-53094858f851": {
+                "name": "Lakki marwat",
+                "uid": "21f81979-a4b3-44c1-a95d-53094858f851",
+                "cities": [
+                    {
+                        "uid": "91a278b9-7063-453f-a192-71a462076b7d",
+                        "name": "Lakki marwat"
+                    }
+                ]
+            },
+            "fb713caa-0400-47da-9722-98a376621e24": {
+                "name": "Lower kohistan",
+                "uid": "fb713caa-0400-47da-9722-98a376621e24",
+                "cities": [
+                    {
+                        "uid": "2fa9093f-7072-4266-8248-79e1b39f60fe",
+                        "name": "Dasu"
+                    },
+                    {
+                        "uid": "faa2c26b-a49c-4c9c-bd34-cca235a96be9",
+                        "name": "Pattan"
+                    },
+                    {
+                        "uid": "27d7746e-774c-4bfb-8bf0-8ed35c995d47",
+                        "name": "Kandia"
+                    },
+                    {
+                        "uid": "a299918f-416c-4548-8fda-88bae4ecff6c",
+                        "name": "Palas"
+                    },
+                    {
+                        "uid": "295ac6ad-afff-4135-a2ba-8e1e2fbf41fe",
+                        "name": "Dassu"
+                    }
+                ]
+            },
+            "d241cc5e-5e00-4f9b-aedb-ab70b4b63a1b": {
+                "name": "South waziristan",
+                "uid": "d241cc5e-5e00-4f9b-aedb-ab70b4b63a1b",
+                "cities": [
+                    {
+                        "uid": "9f5be054-cee8-44cb-af56-5879be60707e",
+                        "name": "Wana"
+                    },
+                    {
+                        "uid": "029fd4d3-cda4-4ab6-82bf-11701774dfa9",
+                        "name": "Sararogha"
+                    },
+                    {
+                        "uid": "eca59eb0-79ec-42f9-a9d2-01a65bf37336",
+                        "name": "Ladha"
+                    },
+                    {
+                        "uid": "bc6f9149-5126-48e3-b4df-12d651ff5012",
+                        "name": "Makeen"
+                    },
+                    {
+                        "uid": "a74ad9ee-0d8b-492b-b5d3-67cc0eedfe11",
+                        "name": "Shakai"
+                    }
+                ]
+            },
+            "13a2927f-f73a-4b4d-8fbf-b57bebee6c3e": {
+                "name": "Tank",
+                "uid": "13a2927f-f73a-4b4d-8fbf-b57bebee6c3e",
+                "cities": [
+                    {
+                        "uid": "7df0f682-c927-419e-b77d-710560d7c5d7",
+                        "name": "Tank"
+                    }
+                ]
+            },
+            "548e4374-71bb-4e5e-a3de-e2caf92ddeef": {
+                "name": "Tor ghar",
+                "uid": "548e4374-71bb-4e5e-a3de-e2caf92ddeef",
+                "cities": [
+                    {
+                        "uid": "635855b1-3b1e-4feb-b8d3-168bd76c3f69",
+                        "name": "Tor ghar"
+                    }
+                ]
+            },
+            "f014d308-0f89-4aee-a009-164ea279e560": {
+                "name": "Upper kohistan",
+                "uid": "f014d308-0f89-4aee-a009-164ea279e560",
+                "cities": [
+                    {
+                        "uid": "6f2dc3bf-b520-4594-8c3f-ef01f526fb98",
+                        "name": "Dasu"
+                    },
+                    {
+                        "uid": "e4a09960-1977-41bd-88f2-b188755fe292",
+                        "name": "Pattan"
+                    },
+                    {
+                        "uid": "84108a21-8097-4a16-9ff6-9e9631987be0",
+                        "name": "Kandia"
+                    },
+                    {
+                        "uid": "95b335f7-3135-4a72-be8d-ad8a1d604a59",
+                        "name": "Palas"
+                    }
+                ]
+            },
+            "11d6242f-0a50-4619-bf56-78f575afb2d2": {
+                "name": "Nowshera",
+                "uid": "11d6242f-0a50-4619-bf56-78f575afb2d2",
+                "cities": [
+                    {
+                        "uid": "8f0c9c61-465a-4d5f-9096-39227304e04d",
+                        "name": "Nowshera"
+                    },
+                    {
+                        "uid": "3373af41-f115-4fa8-b6ad-50954fae53c5",
+                        "name": "Pabbi"
+                    },
+                    {
+                        "uid": "fef41f4e-01ed-41c1-9bb0-fa810289f4e3",
+                        "name": "Risalpur"
+                    },
+                    {
+                        "uid": "187c221d-cd7a-4b23-be31-90bd7cfcf12e",
+                        "name": "Akora khattak"
+                    },
+                    {
+                        "uid": "0ae9b987-856a-45d4-ba4c-f7e3c40b875f",
+                        "name": "Jehangira"
+                    }
+                ]
+            },
+            "ae6f11cb-68f9-4a87-995a-15f1f0d89394": {
+                "name": "Swabi",
+                "uid": "ae6f11cb-68f9-4a87-995a-15f1f0d89394",
+                "cities": [
+                    {
+                        "uid": "92cd1885-5a40-438b-acb7-5ac68ae918da",
+                        "name": "Swabi"
+                    },
+                    {
+                        "uid": "01b20afa-08bf-43ba-a72c-518357b407dd",
+                        "name": "Topi"
+                    },
+                    {
+                        "uid": "d4541de1-9e65-4798-b9a0-e3daa0963efa",
+                        "name": "Marghuz"
+                    },
+                    {
+                        "uid": "60183b56-b795-4b77-aa99-8442d7bff723",
+                        "name": "Razaar"
+                    }
+                ]
+            },
+            "4ce610b9-019d-458a-8f44-1c9c91ccfc90": {
+                "name": "Swat",
+                "uid": "4ce610b9-019d-458a-8f44-1c9c91ccfc90",
+                "cities": [
+                    {
+                        "uid": "2fcf631b-e17e-489c-946e-66d03fa524a4",
+                        "name": "Swat"
+                    },
+                    {
+                        "uid": "a6771722-e653-4dcf-a27a-091fc3ddda60",
+                        "name": "Mingora"
+                    },
+                    {
+                        "uid": "4f3d046d-cd2a-4e78-89e0-ad9ef9579058",
+                        "name": "Saidu sharif"
+                    },
+                    {
+                        "uid": "edcb344d-e4f1-4084-af55-4d324dcdb588",
+                        "name": "Matta"
+                    },
+                    {
+                        "uid": "02ac079b-87e8-4878-a351-da640a73efa2",
+                        "name": "Barikot"
+                    },
+                    {
+                        "uid": "a3b9f6bc-98c0-4e85-ab0e-e6b8f74c00e8",
+                        "name": "Manglawar"
+                    }
+                ]
+            },
+            "acd6536a-1577-46ca-90c5-af5c1dff5abf": {
+                "name": "Upper dir",
+                "uid": "acd6536a-1577-46ca-90c5-af5c1dff5abf",
+                "cities": [
+                    {
+                        "uid": "8b2c3e1c-3df7-4b8e-9560-b88537fd61ea",
+                        "name": "Dir town"
+                    },
+                    {
+                        "uid": "369f5684-f08f-49b9-9a25-1fab97994d83",
+                        "name": "Wari"
+                    },
+                    {
+                        "uid": "edbdb329-ea46-4e4e-8061-4b445b2a18f9",
+                        "name": "Sheringal"
+                    }
+                ]
+            },
+            "a7ca878a-6e00-4e9e-ab98-2911e0511551": {
+                "name": "Upper chitral",
+                "uid": "a7ca878a-6e00-4e9e-ab98-2911e0511551",
+                "cities": [
+                    {
+                        "uid": "441f27be-fcc7-4b82-b157-7f4c89d77734",
+                        "name": "Booni"
+                    },
+                    {
+                        "uid": "dfee3cee-dacb-4fbe-849b-fe0d00b77c27",
+                        "name": "Laspur"
+                    },
+                    {
+                        "uid": "f3aacb19-c6f8-4189-8b80-bfd39785cc2b",
+                        "name": "Yarkhun"
+                    },
+                    {
+                        "uid": "65c02a38-6cca-4027-b7c7-21ed62a06523",
+                        "name": "Morder"
+                    }
+                ]
+            }
+        }
+    },
+    "28652fad-bb9e-4e4c-9a96-87a55f8db8c4": {
+        "name": "Ajk",
+        "uid": "28652fad-bb9e-4e4c-9a96-87a55f8db8c4",
+        "districts": {
+            "a21c86bb-5ad1-41b7-879e-f609db790721": {
+                "name": "Haveli",
+                "uid": "a21c86bb-5ad1-41b7-879e-f609db790721",
+                "cities": [
+                    {
+                        "uid": "50c2bc76-0348-43a2-a081-6ef3a9887b5b",
+                        "name": "Haveli city"
+                    },
+                    {
+                        "uid": "3f9f234c-5d15-429d-a30e-aedff14c3b6e",
+                        "name": "Tain"
+                    },
+                    {
+                        "uid": "65f171f0-4c45-4387-8a86-6ea834856e21",
+                        "name": "Forward kahuta"
+                    }
+                ]
+            },
+            "c8b95445-efe8-419f-9a6d-3f38ed489c68": {
+                "name": "Muzaffarabad",
+                "uid": "c8b95445-efe8-419f-9a6d-3f38ed489c68",
+                "cities": [
+                    {
+                        "uid": "281c6826-7411-4c2b-96d1-342cd4e41b8d",
+                        "name": "Hattian bala"
+                    },
+                    {
+                        "uid": "6770bf88-7132-4f40-8d2a-793273d95f07",
+                        "name": "Chakothi"
+                    },
+                    {
+                        "uid": "562ca985-dede-4adb-90a3-f3cdf26b4114",
+                        "name": "Ghari dupatta"
+                    },
+                    {
+                        "uid": "19f03c29-f6c1-4b26-a88b-cf791afb32c8",
+                        "name": "Maira muzzafarabad"
+                    },
+                    {
+                        "uid": "19f87b97-10cd-4717-bfa7-0a34755121c4",
+                        "name": "Muzaffarabad city"
+                    }
+                ]
+            },
+            "3b42575e-f4b2-4f03-9ac7-af59c5c3c676": {
+                "name": "Neelam valley",
+                "uid": "3b42575e-f4b2-4f03-9ac7-af59c5c3c676",
+                "cities": [
+                    {
+                        "uid": "b9f4177c-29e8-4847-8923-34d6fbc807f3",
+                        "name": "Keran"
+                    },
+                    {
+                        "uid": "8c91ae4a-95c5-40f3-bba6-406e5746817b",
+                        "name": "Sharda"
+                    },
+                    {
+                        "uid": "2d02d534-f654-4975-b86e-f78a0b36e4b2",
+                        "name": "Kel"
+                    },
+                    {
+                        "uid": "cee7a77e-61ca-458f-a464-eaaa05831fdb",
+                        "name": "Arang kel"
+                    },
+                    {
+                        "uid": "0389a990-2ea3-4733-8cb7-31d77e3edae2",
+                        "name": "Athmuqam"
+                    }
+                ]
+            },
+            "313617ce-7e65-4876-96e1-c631c4bb612f": {
+                "name": "Poonch",
+                "uid": "313617ce-7e65-4876-96e1-c631c4bb612f",
+                "cities": [
+                    {
+                        "uid": "8b555e78-38a3-4281-8767-3f13fce589f7",
+                        "name": "Rawalakot"
+                    },
+                    {
+                        "uid": "3947cfbf-1085-4dc5-be4f-800e2a128d8a",
+                        "name": "Hajira"
+                    },
+                    {
+                        "uid": "5fd2d62d-1012-4ad0-9b31-5454a0b2221e",
+                        "name": "Abbaspur"
+                    },
+                    {
+                        "uid": "307125b5-ce9c-4f2a-9f7b-831deb09617d",
+                        "name": "Rawlakot tehsil"
+                    }
+                ]
+            },
+            "bca502d7-5d23-45ce-8792-51c6876d6499": {
+                "name": "Sudhanoti",
+                "uid": "bca502d7-5d23-45ce-8792-51c6876d6499",
+                "cities": [
+                    {
+                        "uid": "cb13ef72-ca61-420f-82c9-1b3880ff3342",
+                        "name": "Pallandri"
+                    },
+                    {
+                        "uid": "66172918-03bf-4920-84a9-f6fcec135d15",
+                        "name": "Trarkhal"
+                    },
+                    {
+                        "uid": "5a76e6ee-1635-4938-a508-51495569d826",
+                        "name": "Kotli"
+                    },
+                    {
+                        "uid": "0f8b0db9-e59a-4c52-954d-a274f3fb7176",
+                        "name": "Balouch"
+                    },
+                    {
+                        "uid": "a9207be7-cb61-4ade-9bc5-5affd1c46f4e",
+                        "name": "Palak"
+                    }
+                ]
+            },
+            "cb1490e0-0b5d-4ec7-9a39-ce3ff0e6a8b2": {
+                "name": "Bagh",
+                "uid": "cb1490e0-0b5d-4ec7-9a39-ce3ff0e6a8b2",
+                "cities": [
+                    {
+                        "uid": "79f9e2a4-b250-440f-95b4-6d706a90cb57",
+                        "name": "Bagh city"
+                    },
+                    {
+                        "uid": "dc807d06-a065-4389-b966-313fb09115e3",
+                        "name": "Dhirkot"
+                    },
+                    {
+                        "uid": "815f5c09-8072-4b8b-9cde-e951d7e3444e",
+                        "name": "Dheerkot"
+                    },
+                    {
+                        "uid": "32d9dddf-dfae-42ce-9a9c-3947c4039f93",
+                        "name": "Haveli"
+                    }
+                ]
+            },
+            "d226d3ed-5dfa-40ef-91f9-0f3bcf376e99": {
+                "name": "Bhimber",
+                "uid": "d226d3ed-5dfa-40ef-91f9-0f3bcf376e99",
+                "cities": [
+                    {
+                        "uid": "9b14ed46-f190-4a4a-aa5e-98afc604cb1d",
+                        "name": "Bhimber city"
+                    },
+                    {
+                        "uid": "25219341-551d-4980-ba68-58c72ba8ae31",
+                        "name": "Samahni"
+                    },
+                    {
+                        "uid": "1734a33c-a584-4203-80ca-7d28ad1a54ad",
+                        "name": "Barnala"
+                    },
+                    {
+                        "uid": "76d91895-27cb-41b1-94a4-f74cde015599",
+                        "name": "Kharri sharif"
+                    },
+                    {
+                        "uid": "92f71f96-1ac6-40fb-911d-51e5d3abfd49",
+                        "name": "Jandi chontra"
+                    }
+                ]
+            },
+            "543539de-658e-4d58-801f-078a5707aa8e": {
+                "name": "Kotli",
+                "uid": "543539de-658e-4d58-801f-078a5707aa8e",
+                "cities": [
+                    {
+                        "uid": "95870d0b-14ff-4c61-bb06-5000a7b60de8",
+                        "name": "Kotli city"
+                    },
+                    {
+                        "uid": "6a3a5560-ba8e-45b5-a903-89ae930ceced",
+                        "name": "Nakyal"
+                    },
+                    {
+                        "uid": "a7d8c443-4a10-4040-abc4-ff49c9656b27",
+                        "name": "Sehnsa"
+                    },
+                    {
+                        "uid": "c9bbc50b-42c7-4147-8267-25a47464bf44",
+                        "name": "Khoiratta"
+                    },
+                    {
+                        "uid": "f94d1e86-5506-469a-952e-390cf05220e2",
+                        "name": "Charhoi"
+                    }
+                ]
+            },
+            "545c9a56-108b-49cc-a5b4-f40af83a761e": {
+                "name": "Mirpur",
+                "uid": "545c9a56-108b-49cc-a5b4-f40af83a761e",
+                "cities": [
+                    {
+                        "uid": "7145a709-9070-40c0-9d38-19036bee475e",
+                        "name": "Mirpur city"
+                    },
+                    {
+                        "uid": "d2b93fa4-ba2f-4e5c-b770-6b40cfbfcbf8",
+                        "name": "Dadyal"
+                    },
+                    {
+                        "uid": "a1ba44f2-1956-4286-9861-87c61aa3b349",
+                        "name": "Chakswari"
+                    },
+                    {
+                        "uid": "aef64211-3a3a-42a3-ba8f-47391ced0bd9",
+                        "name": "Khari sharif"
+                    },
+                    {
+                        "uid": "9314568b-04b9-4f75-969a-0eaf320b16cf",
+                        "name": "Bhimber"
+                    }
+                ]
+            }
+        }
+    }
+}
